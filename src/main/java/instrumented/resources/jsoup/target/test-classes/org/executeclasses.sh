@@ -1,8 +1,8 @@
 #!/bin/bash
 
-for dir in /jsoup/*
+alldirs="jsoup"
+for dir in "$alldirs"/*
 do
-echo $dir
 	echo $dir
 	for file in "$dir"/*
 	do

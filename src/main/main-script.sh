@@ -2,11 +2,11 @@
 
 ./CCT/build.sh
 
-cd joda-time
-mvn clean 
-mvn compile
-mvn test
-cd ..
+# cd joda-time
+# mvn clean 
+# mvn compile
+# mvn test
+# cd ..
 
 reportJT=reports/joda-time
 

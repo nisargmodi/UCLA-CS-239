@@ -1,18 +1,42 @@
 #!/bin/bash
 
 curr_path=$(pwd)
+echo $curr_path
+base_path=$curr_path/..
+echo $base_path
 
-export CLASSPATH=.:$curr_path/../resources/asm-all-5.0.4.jar:.
-javac ../java/core-utils/Instrument.java
+path_to_tests=$base_path/resources/jsoup/target/
+
+export CLASSPATH=.:$base_path/resources/asm-all-5.0.4.jar:$base_path/resources/junit.jar:$base_path/java/instrumented/jsoup/target/classes
+javac -cp $CLASSPATH $base_path/java/core-utils/Instrument.java
 
 echo "classpath is:"$CLASSPATH
 
-cd ../
+cd $path_to_tests
 
-for f in $(find resources -name '*class')
+echo $(pwd)
+
+for f in $(find classes -name '*class')
 do
-  mkdir -p java/instrumented/$(dirname $f)
-  cd java/core-utils/
-  java Instrument $curr_path/../$f $curr_path/../java/instrumented/$f
-  cd ../../
+  mkdir -p $base_path/java/instrumented/jsoup/target/$(dirname $f)
+  cd $base_path/java/core-utils/
+  java -cp $CLASSPATH Instrument $path_to_tests/$f $base_path/java/instrumented/jsoup/target/$f
+  cd $path_to_tests
+done
+
+cp -R $base_path/resources/jsoup/target/classes/META-INF $base_path/java/instrumented/jsoup/target/classes/META-INF
+cp -R $base_path/resources/jsoup/target/test-classes $base_path/java/instrumented/jsoup/target/test-classes
+
+path_to_instrumented_tests=$base_path/java/instrumented/jsoup/target/test-classes
+
+cd $path_to_instrumented_tests
+echo $(pwd)
+
+export CLASSPATH=.:$base_path/resources/asm-all-5.0.4.jar:$base_path/resources/junit.jar:$base_path/java/instrumented/jsoup/target/classes:$base_path/resources/jsoup/target/test-classes
+
+for f in $(find org -name '*class')
+do
+  arrIN=(${f//./ })
+  #echo $arrIN
+  java -cp $CLASSPATH org.junit.runner.JUnitCore $arrIN
 done

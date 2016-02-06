@@ -54,7 +54,7 @@ class TraceCallsAdapter extends MethodVisitor implements Opcodes {
     public void visitMethodInsn(int opcode, String owner, String name, String desc, boolean itf) {
         /* log method entry */
         mv.visitFieldInsn(GETSTATIC, "java/lang/System", "err", "Ljava/io/PrintStream;");
-        mv.visitLdcInsn("CALL " + owner + "." + name + desc);
+        mv.visitLdcInsn("CALL " + owner + "::" + name);
         mv.visitMethodInsn(INVOKEVIRTUAL, "java/io/PrintStream", "println", "(Ljava/lang/String;)V", false);
 
         /* do call */
@@ -62,7 +62,7 @@ class TraceCallsAdapter extends MethodVisitor implements Opcodes {
 
         /* log method exit */
         mv.visitFieldInsn(GETSTATIC, "java/lang/System", "err", "Ljava/io/PrintStream;");
-        mv.visitLdcInsn("RETURN " + owner + "." + name + desc);
+        mv.visitLdcInsn("RETURN " + owner + "::" + name);
         mv.visitMethodInsn(INVOKEVIRTUAL, "java/io/PrintStream", "println", "(Ljava/lang/String;)V", false);
     }
 }

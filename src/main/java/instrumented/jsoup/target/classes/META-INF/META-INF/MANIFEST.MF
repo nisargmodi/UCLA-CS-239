@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Bundle-Description: jsoup HTML parser
+Bundle-License: http://jsoup.org/license
+Bundle-SymbolicName: org.jsoup
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1454721525817
+Bundle-DocURL: http://jsoup.org/
+Bundle-Vendor: Jonathan Hedley
+Import-Package: javax.net.ssl,javax.xml.parsers,javax.xml.transform,ja
+ vax.xml.transform.dom,javax.xml.transform.stream,org.jsoup;version="1
+ .8",org.jsoup.examples;version="1.8",org.jsoup.helper;version="1.8",o
+ rg.jsoup.nodes;version="1.8",org.jsoup.parser;version="1.8",org.jsoup
+ .safety;version="1.8",org.jsoup.select;version="1.8",org.w3c.dom
+Tool: Bnd-0.0.357
+Export-Package: org.jsoup;uses:="org.jsoup.parser,org.jsoup.nodes,org.
+ jsoup.safety,org.jsoup.helper";version="1.8.4.SNAPSHOT",org.jsoup.exa
+ mples;uses:="org.jsoup.nodes,org.jsoup.helper,org.jsoup.select,org.js
+ oup";version="1.8.4.SNAPSHOT",org.jsoup.helper;uses:="org.jsoup.nodes
+ ,org.jsoup.parser,org.jsoup.select,org.jsoup,javax.net.ssl,org.w3c.do
+ m,javax.xml.transform.stream,javax.xml.transform.dom,javax.xml.parser
+ s,javax.xml.transform";version="1.8.4.SNAPSHOT",org.jsoup.nodes;uses:
+ ="org.jsoup.helper,org.jsoup.parser,org.jsoup.select,org.jsoup";versi
+ on="1.8.4.SNAPSHOT",org.jsoup.parser;uses:="org.jsoup.helper,org.jsou
+ p.nodes,org.jsoup.select";version="1.8.4.SNAPSHOT",org.jsoup.safety;u
+ ses:="org.jsoup.nodes,org.jsoup.select,org.jsoup.parser,org.jsoup.hel
+ per";version="1.8.4.SNAPSHOT",org.jsoup.select;uses:="org.jsoup.nodes
+ ,org.jsoup.helper,org.jsoup.parser";version="1.8.4.SNAPSHOT"
+Bundle-Version: 1.8.4.SNAPSHOT
+Bundle-Name: jsoup
+Created-By: 1.8.0_72 (Oracle Corporation)
+

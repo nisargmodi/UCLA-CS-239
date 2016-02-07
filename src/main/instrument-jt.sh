@@ -3,7 +3,7 @@
 CCT=$(pwd)
 CCT="$CCT/CCT"
 
-export CLASSPATH=$CCT:$CCT/asm-5.0.3.jar:.
+export CLASSPATH=$CCT:$CCT/asm-5.0.4.jar:.
 echo $CLASSPATH
 
 cd joda-time/target/classes

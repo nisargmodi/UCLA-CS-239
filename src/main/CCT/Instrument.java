@@ -53,8 +53,6 @@ class TraceCallsAdapter extends MethodVisitor implements Opcodes {
     @Override
     public void visitMethodInsn(int opcode, String owner, String name, String desc, boolean itf) {
         /* log method entry */
-        /*mv.visitFieldInsn(GETSTATIC, owner, "timer", "J");
-        mv.visitMethodInsn(INVOKESTATIC, "java/lang/System","currentTimeMillis", "()J");*/
 
         mv.visitFieldInsn(GETSTATIC, "java/lang/System", "err", "Ljava/io/PrintStream;");
         mv.visitLdcInsn("CALL " + owner + "." + name);

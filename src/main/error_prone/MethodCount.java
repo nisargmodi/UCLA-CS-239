@@ -1,3 +1,5 @@
+package main.error_prone;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -21,8 +23,8 @@ public class MethodCount {
 	}
 
 	public static void getMethodCount() throws IOException {
-		BufferedReader input = new BufferedReader(new FileReader("results/error-prone/ErrorProneStackTrace.txt"));
-		FileWriter fw = new FileWriter("results/error-prone/methodcount.csv"));
+		BufferedReader input = new BufferedReader(new FileReader("src/main/error_prone/results/error-prone/ErrorProneStackTrace.txt"));
+		FileWriter fw = new FileWriter("src/main/error_prone/results/error-prone/methodcount.csv");
 		BufferedWriter output = new BufferedWriter(fw);
 		
 		Stack<String> stack = new Stack<String>();

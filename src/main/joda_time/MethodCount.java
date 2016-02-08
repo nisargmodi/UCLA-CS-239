@@ -1,3 +1,5 @@
+package main.joda_time;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -21,8 +23,8 @@ public class MethodCount {
 	}
 
 	public static void getMethodCount() throws IOException {
-		BufferedReader input = new BufferedReader(new FileReader("results/error-prone/SegmentedOutputStackTrace.txt"));
-		FileWriter fw = new FileWriter("results/error-prone/methodcount.csv"));
+		BufferedReader input = new BufferedReader(new FileReader("src/main/joda_time/results/error-prone/SegmentedOutputStackTrace.txt"));
+		FileWriter fw = new FileWriter("src/main/joda_time/results/joda-time/methodcount.csv");
 		BufferedWriter output = new BufferedWriter(fw);
 		
 		Stack<String> stack = new Stack<String>();

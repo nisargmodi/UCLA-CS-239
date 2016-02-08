@@ -1,3 +1,5 @@
+package main.error_prone.CCT;
+
 class Test {
     void f() {
         g();

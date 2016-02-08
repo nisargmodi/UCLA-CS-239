@@ -74,7 +74,7 @@ public class CallingContextTree {
 
 	public ArrayList<String> createTreeWithAnnotation(ArrayList<String> list) throws IOException {
 		BufferedWriter output = new BufferedWriter(new FileWriter(
-				"src/main/joda_time/results/joda-time/JT_CCT.csv"));
+				"src/main/joda_time/results/joda-time/JT_CCT.txt"));
 		int count = 1;
 		ArrayList<String> nlist = new ArrayList<>();
 		for (int i = 0; i < list.size() - 2; i++) {

@@ -1,12 +1,14 @@
 #!/bin/bash
 
 ./resources/instrument-compile.sh
-# cd error-prone
+# cd joda-time
 # mvn clean 
 # mvn compile
 # mvn test
 # cd ..
 ./instrument-driver.sh
 ./runInstrumented.sh
-#resultsJT=results/error-prone
-#./statsPassFail.sh $resultsJT > $resultsJT/statsPassFail.csv
+
+resultsJT=reports/error-prone
+./run-for-pass-fail.sh
+./statsPassFail.sh $resultsJT > $resultsJT/statsPassFail.csv

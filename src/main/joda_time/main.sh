@@ -8,5 +8,7 @@
 # cd ..
 ./instrument-driver.sh
 ./runInstrumented.sh
-#resultsJT=results/joda-time
-#./statsPassFail.sh $resultsJT > $resultsJT/statsPassFail.csv
+
+resultsJT=reports/joda-time
+./run-for-pass-fail.sh
+./statsPassFail.sh $resultsJT > $resultsJT/statsPassFail.csv

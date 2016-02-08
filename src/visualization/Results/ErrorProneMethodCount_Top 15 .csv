@@ -1,0 +1,16 @@
+"","methods","count"
+"1","java/lang/Object.<init>",72
+"2","java/io/LineNumberReader.getLineNumber",42
+"3","java/lang/StringBuilder.<init>",35
+"4","java/lang/String.equals",32
+"5","java/util/Iterator.hasNext",24
+"6","com/google/common/base/Preconditions.checkNotNull",23
+"7","com/google/errorprone/ErrorProneOptions$Builder.<init>",22
+"8","com/google/errorprone/refaster/Choice.<init>",22
+"9","java/io/LineNumberReader.readLine",21
+"10","java/lang/StringBuilder.toString",21
+"11","java/lang/StringBuilder.append",18
+"12","java/util/List.add",16
+"13","java/lang/String.startsWith",16
+"14","java/util/Iterator.next",16
+"15","java/io/PrintWriter.<init>",14

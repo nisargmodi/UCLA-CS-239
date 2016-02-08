@@ -1,0 +1,16 @@
+"","klength","call_sequence","count"
+"1",2,"LineNumberReader.readLine LineNumberReader.getLineNumber ",21
+"2",2,"LineNumberReader.getLineNumber LineNumberReader.readLine ",17
+"3",3,"LineNumberReader.getLineNumber LineNumberReader.readLine LineNumberReader.getLineNumber ",17
+"4",2,"String.equals String.startsWith ",16
+"5",2,"Iterator.next String.equals ",16
+"6",3,"Iterator.next String.equals String.startsWith ",16
+"7",2,"PrintWriter.<init> BuiltInCheckerSuppliers.defaultChecks ",14
+"8",2,"String.substring String.split ",11
+"9",2,"String.length String.substring ",11
+"10",2,"Object.<init> HashMap.<init> ",11
+"11",2,"ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> ",11
+"12",2,"Choice.<init> Choice.<init> ",11
+"13",3,"String.length String.substring String.split ",11
+"14",3,"ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> Object.<init> ",11
+"15",3,"Choice.<init> Choice.<init> Object.<init> ",11

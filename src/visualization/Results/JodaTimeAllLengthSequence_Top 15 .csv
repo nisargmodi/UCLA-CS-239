@@ -1,0 +1,16 @@
+"","klength","call_sequence","count"
+"1",2,"BasicChronology.getYearMillis BasicChronology.getYearInfo ",8832
+"2",2,"InternalParser.parseInto CharSequence.length ",4750
+"3",2,"BasicChronology.getApproxMillisAtEpochDividedByTwo BasicChronology.getYearMillis ",4214
+"4",2,"BasicChronology.getAverageMillisPerYearDividedByTwo BasicChronology.getApproxMillisAtEpochDividedByTwo ",4214
+"5",3,"BasicChronology.getApproxMillisAtEpochDividedByTwo BasicChronology.getYearMillis BasicChronology.getYearInfo ",4214
+"6",3,"BasicChronology.getAverageMillisPerYearDividedByTwo BasicChronology.getApproxMillisAtEpochDividedByTwo BasicChronology.getYearMillis ",4214
+"7",4,"BasicChronology.getAverageMillisPerYearDividedByTwo BasicChronology.getApproxMillisAtEpochDividedByTwo BasicChronology.getYearMillis BasicChronology.getYearInfo ",4214
+"8",2,"DateTimeFieldType.getField DateTimeUtils.getChronology ",4186
+"9",2,"BasicChronology.getYear BasicChronology.getAverageMillisPerYearDividedByTwo ",3686
+"10",3,"BasicChronology.getYear BasicChronology.getAverageMillisPerYearDividedByTwo BasicChronology.getApproxMillisAtEpochDividedByTwo ",3686
+"11",4,"BasicChronology.getYear BasicChronology.getAverageMillisPerYearDividedByTwo BasicChronology.getApproxMillisAtEpochDividedByTwo BasicChronology.getYearMillis ",3686
+"12",5,"BasicChronology.getYear BasicChronology.getAverageMillisPerYearDividedByTwo BasicChronology.getApproxMillisAtEpochDividedByTwo BasicChronology.getYearMillis BasicChronology.getYearInfo ",3686
+"13",2,"BasicChronology.getTotalMillisByYearMonth BasicGJChronology.isLeapYear ",3188
+"14",2,"DateTimeParserBucket$SavedField.set DateTimeField.setExtended ",3000
+"15",2,"BasicGJChronology.getYearMillis BasicChronology.getYearInfo ",2522

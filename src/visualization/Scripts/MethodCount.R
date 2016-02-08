@@ -1,0 +1,28 @@
+#install.packages("sqldf")
+library(sqldf)
+op <- par(mar = c(12,4,4,2) + 0.1)
+readinteger <- function()
+{ 
+  n <- readline(prompt="")
+  return(as.integer(n))
+}
+print("Enter a number(n) for Top n results")
+n <- readinteger()
+
+mcj <- read.csv("jodatimemethodcount.csv") 
+query <- paste("select * from (select * from mcj order by frequency desc) limit",n)
+mc1 <- sqldf(query)
+print(mc1)
+write.csv(mc1, file = paste("Results/JodaTimeMethodCount_Top",n,".csv"))
+x <- factor(mc1[1:n,"methods"])
+barplot(mc1$frequency,names.arg=x, las=2, xlab="Methods", ylab="Count", main=paste("JodaTime - Top",n,"Method calls"),col=c("green","blue"))
+dev.copy2pdf(file = paste("Results/JodaTimeMethodCount_Top",n,".pdf"))
+
+ep <- read.csv("errorpronemethodcount.csv") 
+query <- paste("select * from (select * from ep order by count desc) limit",n)
+ep1 <- sqldf(query)
+print(ep1)
+write.csv(ep1, file = paste("Results/ErrorProneMethodCount_Top",n,".csv"))
+x <- factor(ep1[1:n,"methods"])
+barplot(ep1$count,names.arg=x, las=2, xlab="Methods", ylab="Count",  main=paste("ErrorProne - Top",n,"Method calls"),col=c("green","blue"))
+dev.copy2pdf(file = paste("Results/ErrorProneMethodCount_Top",n,".pdf"))

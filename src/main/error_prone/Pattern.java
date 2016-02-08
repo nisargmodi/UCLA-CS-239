@@ -1,5 +1,3 @@
-package main.error_prone;
-
 import java.util.ArrayList;
 
 public class Pattern {

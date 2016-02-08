@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -22,8 +21,8 @@ public class MethodCount {
 	}
 
 	public static void getMethodCount() throws IOException {
-		BufferedReader input = new BufferedReader(new FileReader("/home/ashish/Eclipseworkspace/UCLA-CS-239/src/convert.txt"));
-		FileWriter fw = new FileWriter("/home/ashish/Eclipseworkspace/UCLA-CS-239/src/methodcount.csv");
+		BufferedReader input = new BufferedReader(new FileReader("results/error-prone/ErrorProneStackTrace.txt"));
+		FileWriter fw = new FileWriter("results/error-prone/methodcount.csv"));
 		BufferedWriter output = new BufferedWriter(fw);
 		
 		Stack<String> stack = new Stack<String>();

@@ -1339,3 +1339,79 @@
 																																							<39>RETURN java/util/Collections.emptyIterator
 																																						<38>RETURN com/google/errorprone/refaster/Choice.iterator
 																																						<38>CALL java/util/Iterator.hasNext <COUNT>1
+																																						<38>RETURN java/util/Iterator.hasNext
+																																						<38>CALL com/google/common/base/Optional.absent <COUNT>1
+																																							<39>CALL com/google/errorprone/ErrorProneOptions$Builder.<init> <COUNT>1
+																																								<40>CALL com/google/errorprone/ErrorProneOptions$Builder.<init> <COUNT>1
+																																									<41>CALL java/lang/Object.<init> <COUNT>1
+																																									<41>RETURN java/lang/Object.<init>
+																																									<41>CALL java/util/HashMap.<init> <COUNT>1
+																																									<41>RETURN java/util/HashMap.<init>
+																																								<40>RETURN com/google/errorprone/ErrorProneOptions$Builder.<init>
+																																							<39>RETURN com/google/errorprone/ErrorProneOptions$Builder.<init>
+																																							<39>CALL com/google/common/collect/ImmutableList.of <COUNT>1
+																																								<40>CALL java/lang/Object.<init> <COUNT>1
+																																								<40>RETURN java/lang/Object.<init>
+																																								<40>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																								<40>RETURN java/lang/StringBuilder.<init>
+																																								<40>CALL java/lang/StringBuilder.toString <COUNT>1
+																																								<40>RETURN java/lang/StringBuilder.toString
+																																								<40>CALL java/lang/Object.<init> <COUNT>1
+																																								<40>RETURN java/lang/Object.<init>
+																																								<40>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																								<40>RETURN java/lang/StringBuilder.<init>
+																																								<40>CALL com/google/common/io/CharSource.wrap <COUNT>1
+																																									<41>CALL java/lang/Object.<init> <COUNT>1
+																																									<41>RETURN java/lang/Object.<init>
+																																									<41>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																									<41>RETURN java/lang/StringBuilder.<init>
+																																									<41>CALL java/lang/StringBuilder.replace <COUNT>1
+																																									<41>RETURN java/lang/StringBuilder.replace
+																																									<41>CALL java/lang/StringBuilder.toString <COUNT>1
+																																									<41>RETURN java/lang/StringBuilder.toString
+																																									<41>CALL com/google/common/io/CharSource.wrap <COUNT>1
+																																										<42>CALL java/lang/Object.<init> <COUNT>1
+																																										<42>RETURN java/lang/Object.<init>
+																																										<42>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																										<42>RETURN java/lang/StringBuilder.<init>
+																																										<42>CALL java/lang/StringBuilder.length <COUNT>1
+																																										<42>RETURN java/lang/StringBuilder.length
+																																										<42>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																										<42>RETURN java/lang/StringBuilder.<init>
+																																										<42>CALL com/google/common/base/Joiner.on <COUNT>1
+																																											<43>CALL java/lang/Object.<init> <COUNT>1
+																																											<43>RETURN java/lang/Object.<init>
+																																											<43>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																											<43>RETURN java/lang/StringBuilder.<init>
+																																											<43>CALL com/google/common/base/Preconditions.checkArgument <COUNT>1
+																																												<44>CALL java/lang/Object.<init> <COUNT>1
+																																												<44>RETURN java/lang/Object.<init>
+																																												<44>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																												<44>RETURN java/lang/StringBuilder.<init>
+																																												<44>CALL java/lang/StringBuilder.substring <COUNT>1
+																																												<44>RETURN java/lang/StringBuilder.substring
+																																												<44>CALL java/lang/Object.<init> <COUNT>1
+																																												<44>RETURN java/lang/Object.<init>
+																																												<44>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																												<44>RETURN java/lang/StringBuilder.<init>
+																																												<44>CALL com/google/common/base/Preconditions.checkArgument <COUNT>1
+																																													<45>CALL java/lang/Object.<init> <COUNT>1
+																																													<45>RETURN java/lang/Object.<init>
+																																													<45>CALL java/lang/StringBuilder.<init> <COUNT>1
+																																													<45>RETURN java/lang/StringBuilder.<init>
+																																													<45>CALL com/sun/tools/javac/api/JavacTool.create <COUNT>1
+																																														<46>CALL com/sun/tools/javac/api/JavacTool.create <COUNT>1
+																																															<47>CALL com/google/errorprone/refaster/Choice$1.<init> <COUNT>1
+																																																<48>CALL com/google/errorprone/refaster/Choice.<init> <COUNT>1
+																																																	<49>CALL com/google/errorprone/refaster/Choice.<init> <COUNT>1
+																																																		<50>CALL java/lang/Object.<init> <COUNT>1
+																																																		<50>RETURN java/lang/Object.<init>
+																																																	<49>RETURN com/google/errorprone/refaster/Choice.<init>
+																																																<48>RETURN com/google/errorprone/refaster/Choice.<init>
+																																															<47>RETURN com/google/errorprone/refaster/Choice$1.<init>
+																																															<47>CALL com/google/common/base/Preconditions.checkNotNull <COUNT>1
+																																																<48>CALL com/google/errorprone/refaster/Choice.iterator <COUNT>1
+																																																	<49>CALL java/util/Collections.emptyIterator <COUNT>1
+																																																	<49>RETURN java/util/Collections.emptyIterator
+																																																<48>RETURN com/google/errorprone/refaster/Choice.iterator
+																																																<48>CALL java/util/Iterator.hasNext <COUNT>1

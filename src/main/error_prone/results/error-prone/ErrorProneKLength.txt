@@ -1,0 +1,270 @@
+2,ImmutableList.of Object.<init> ,3
+2,Choice$1.<init> Choice.<init> ,4
+2,ErrorProneOptions$Builder.build ImmutableMap.copyOf ,6
+2,Choice$2.<init> Choice.<init> ,2
+2,Choice$3.<init> Choice.<init> ,3
+2,PrintWriter.<init> BuiltInCheckerSuppliers.defaultChecks ,14
+2,String.substring String.split ,11
+2,Enum.<init> ErrorProneOptions$Severity.<init> ,3
+2,Collections.emptyIterator Iterator.hasNext ,3
+2,Object.getClass Bindings$Key$1.<init> ,1
+2,Choice$5.<init> Choice.<init> ,1
+2,Choice$4.<init> Object.<init> ,4
+2,Choice.asIterable Choice$4.<init> ,1
+2,ForwardingMap.<init> Object.<init> ,1
+2,Bindings$Key.getValueType Object.getClass ,1
+2,StringBuilder.length StringBuilder.<init> ,5
+2,ImmutableList.builder ErrorProneOptions$Builder.<init> ,8
+2,ImmutableList.size ImmutableList.toArray ,2
+2,ImmutableList$Builder.add Iterator.hasNext ,5
+2,StringReader.<init> LineNumberReader.<init> ,4
+2,Choice$8.<init> Choice.<init> ,1
+2,Iterators.concat Choice$5$1.apply ,1
+2,Bindings.<init> HashMap.<init> ,1
+2,ErrorProneOptions$Severity.<init> Enum.<init> ,4
+2,Choice$6.<init> Choice.<init> ,1
+2,Iterable.iterator Iterator.hasNext ,8
+2,ErrorProneOptions.processArgs Preconditions.checkNotNull ,5
+2,ErrorProneOptions.<init> ErrorProneOptions.<init> ,6
+2,String.isEmpty StringBuilder.<init> ,1
+2,Map.put Iterator.hasNext ,8
+2,LineNumberReader.<init> ArrayList.<init> ,4
+2,Collection.iterator Choice$5$1.<init> ,1
+2,Optional.absent Object.<init> ,1
+2,ImmutableMap.copyOf ErrorProneOptions.<init> ,6
+2,Joiner.join StringBuilder.append ,6
+2,List.add List.size ,4
+2,Iterables.transform Optional.presentInstances ,1
+2,String.length String.substring ,11
+2,BuiltInCheckerSuppliers.defaultChecks ErrorProneOptions$Builder.<init> ,2
+2,Optional.presentInstances Iterable.iterator ,1
+2,Object.<init> HashMap.<init> ,12
+2,ImmutableList$Builder.build ErrorProneOptions$Builder.build ,5
+2,String.equals String.startsWith ,16
+2,Bindings$Key$1.<init> TypeToken.<init> ,1
+2,ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> ,12
+2,Choice.none Choice$8.<init> ,1
+2,StringBuilder.substring Object.<init> ,4
+2,Arrays.asList ErrorProneOptions.processArgs ,5
+2,String.split StringBuilder.<init> ,1
+2,LineNumberReader.readLine LineNumberReader.getLineNumber ,21
+2,List.addAll List.size ,1
+2,Choice$5$1.<init> Object.<init> ,1
+2,ImmutableList.toArray Preconditions.checkNotNull ,2
+2,Enum.valueOf ErrorProneOptions$Severity;.clone ,1
+2,Collection.size Choice$3.<init> ,3
+2,StringBuilder.<init> StringBuilder.toString ,4
+2,SourceFile.getLines CharSource.wrap ,1
+2,Preconditions.checkArgument Object.<init> ,6
+2,ArrayList.<init> List.size ,1
+2,CharSource.readLines Object.<init> ,2
+2,ErrorProneOptions$Severity;.clone StringBuilder.<init> ,1
+2,StringBuilder.replace StringBuilder.toString ,6
+2,InvalidCommandLineOptionException.<init> Exception.<init> ,3
+2,CharSource.wrap Object.<init> ,6
+2,String.startsWith ImmutableList$Builder.add ,5
+2,Iterator.hasNext Optional.absent ,3
+2,Iterators.singletonIterator Choice$5$1.apply ,1
+2,Thread.interrupted Choice$5.<init> ,1
+2,ErrorProneOptions$Builder.putSeverity Map.put ,8
+2,Joiner.on Object.<init> ,3
+2,ErrorProneOptions$Severity.valueOf ErrorProneOptions$Severity.<init> ,1
+2,Function.apply Choice.iterator ,3
+2,HashMap.<init> ImmutableList.of ,4
+2,Exception.<init> Preconditions.checkNotNull ,3
+2,Choice$5$1.apply Function.apply ,3
+2,Preconditions.checkNotNull Choice.iterator ,3
+2,Choice.iterator Collections.emptyIterator ,6
+2,JavacTool.create JavacTool.create ,4
+2,TypeToken.getRawType Class.cast ,1
+2,List.get List.add ,4
+2,StringBuilder.toString Object.<init> ,7
+2,TypeToken.<init> TypeToken.getRawType ,1
+2,Class.cast Choice$1.<init> ,1
+2,List.size List.get ,4
+2,Iterator.next String.equals ,16
+2,Iterators.transform Iterators.concat ,1
+2,Choice.<init> Choice.<init> ,12
+2,StringBuilder.append StringBuilder.toString ,9
+2,SourceFile.replaceLines StringBuilder.length ,1
+2,LineNumberReader.getLineNumber LineNumberReader.readLine ,17
+3,ImmutableList.of Object.<init> StringBuilder.<init> ,3
+3,Choice$1.<init> Choice.<init> Choice.<init> ,4
+3,ErrorProneOptions$Builder.build ImmutableMap.copyOf ErrorProneOptions.<init> ,6
+3,Choice$2.<init> Choice.<init> Choice.<init> ,2
+3,Choice$3.<init> Choice.<init> Choice.<init> ,3
+3,PrintWriter.<init> BuiltInCheckerSuppliers.defaultChecks ErrorProneOptions$Builder.<init> ,2
+3,String.substring String.split StringBuilder.<init> ,1
+3,Enum.<init> ErrorProneOptions$Severity.<init> Enum.<init> ,3
+3,Collections.emptyIterator Iterator.hasNext Optional.absent ,3
+3,Object.getClass Bindings$Key$1.<init> TypeToken.<init> ,1
+3,Choice$5.<init> Choice.<init> Choice.<init> ,1
+3,Choice$4.<init> Object.<init> Choice.iterator ,3
+3,Choice.asIterable Choice$4.<init> Object.<init> ,1
+3,ForwardingMap.<init> Object.<init> Preconditions.checkNotNull ,1
+3,Bindings$Key.getValueType Object.getClass Bindings$Key$1.<init> ,1
+3,StringBuilder.length StringBuilder.<init> Joiner.on ,5
+3,ImmutableList.builder ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> ,8
+3,ImmutableList.size ImmutableList.toArray Preconditions.checkNotNull ,2
+3,ImmutableList$Builder.add Iterator.hasNext Iterator.next ,4
+3,StringReader.<init> LineNumberReader.<init> ArrayList.<init> ,4
+3,Choice$8.<init> Choice.<init> Choice.<init> ,1
+3,Iterators.concat Choice$5$1.apply Function.apply ,1
+3,Bindings.<init> HashMap.<init> Bindings.<init> ,1
+3,ErrorProneOptions$Severity.<init> Enum.<init> ErrorProneOptions$Severity.<init> ,3
+3,Choice$6.<init> Choice.<init> Choice.<init> ,1
+3,Iterable.iterator Iterator.hasNext Iterator.next ,8
+3,ErrorProneOptions.processArgs Preconditions.checkNotNull ImmutableList.builder ,5
+3,ErrorProneOptions.<init> ErrorProneOptions.<init> Object.<init> ,6
+3,String.isEmpty StringBuilder.<init> StringBuilder.append ,1
+3,Map.put Iterator.hasNext ImmutableList$Builder.build ,4
+3,LineNumberReader.<init> ArrayList.<init> LineNumberReader.readLine ,4
+3,Collection.iterator Choice$5$1.<init> Object.<init> ,1
+3,Optional.absent Object.<init> PrintWriter.<init> ,1
+3,ImmutableMap.copyOf ErrorProneOptions.<init> ErrorProneOptions.<init> ,6
+3,Joiner.join StringBuilder.append StringBuilder.toString ,6
+3,List.add List.size List.addAll ,1
+3,Iterables.transform Optional.presentInstances Iterable.iterator ,1
+3,String.length String.substring String.split ,11
+3,BuiltInCheckerSuppliers.defaultChecks ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> ,2
+3,Optional.presentInstances Iterable.iterator Choice.iterator ,1
+3,Object.<init> HashMap.<init> ImmutableList.of ,4
+3,ImmutableList$Builder.build ErrorProneOptions$Builder.build ImmutableMap.copyOf ,5
+3,String.equals String.startsWith ImmutableList$Builder.add ,5
+3,Bindings$Key$1.<init> TypeToken.<init> TypeToken.getRawType ,1
+3,ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> Object.<init> ,12
+3,Choice.none Choice$8.<init> Choice.<init> ,1
+3,StringBuilder.substring Object.<init> StringBuilder.<init> ,4
+3,Arrays.asList ErrorProneOptions.processArgs Preconditions.checkNotNull ,5
+3,String.split StringBuilder.<init> StringBuilder.append ,1
+3,LineNumberReader.readLine LineNumberReader.getLineNumber LineNumberReader.readLine ,9
+3,List.addAll List.size List.get ,1
+3,Choice$5$1.<init> Object.<init> Iterators.transform ,1
+3,ImmutableList.toArray Preconditions.checkNotNull ImmutableList.builder ,1
+3,Enum.valueOf ErrorProneOptions$Severity;.clone StringBuilder.<init> ,1
+3,Collection.size Choice$3.<init> Choice.<init> ,3
+3,StringBuilder.<init> StringBuilder.toString Object.<init> ,4
+3,SourceFile.getLines CharSource.wrap CharSource.readLines ,1
+3,Preconditions.checkArgument Object.<init> StringBuilder.<init> ,6
+3,ArrayList.<init> List.size List.get ,1
+3,CharSource.readLines Object.<init> StringBuilder.<init> ,2
+3,ErrorProneOptions$Severity;.clone StringBuilder.<init> StringBuilder.append ,1
+3,StringBuilder.replace StringBuilder.toString CharSource.wrap ,4
+3,InvalidCommandLineOptionException.<init> Exception.<init> Preconditions.checkNotNull ,3
+3,CharSource.wrap Object.<init> StringBuilder.<init> ,6
+3,String.startsWith ImmutableList$Builder.add Iterator.hasNext ,5
+3,Iterator.hasNext Optional.absent Object.<init> ,1
+3,Iterators.singletonIterator Choice$5$1.apply Function.apply ,1
+3,Thread.interrupted Choice$5.<init> Choice.<init> ,1
+3,ErrorProneOptions$Builder.putSeverity Map.put Iterator.hasNext ,8
+3,Joiner.on Object.<init> StringBuilder.<init> ,3
+3,ErrorProneOptions$Severity.valueOf ErrorProneOptions$Severity.<init> Enum.<init> ,1
+3,Function.apply Choice.iterator Collections.emptyIterator ,2
+3,HashMap.<init> ImmutableList.of Object.<init> ,3
+3,Exception.<init> Preconditions.checkNotNull ImmutableList.builder ,2
+3,Choice$5$1.apply Function.apply Choice.iterator ,3
+3,Preconditions.checkNotNull Choice.iterator Collections.emptyIterator ,3
+3,Choice.iterator Collections.emptyIterator Iterator.hasNext ,3
+3,JavacTool.create JavacTool.create Choice$1.<init> ,3
+3,TypeToken.getRawType Class.cast Choice$1.<init> ,1
+3,List.get List.add List.size ,4
+3,StringBuilder.toString Object.<init> StringBuilder.<init> ,7
+3,TypeToken.<init> TypeToken.getRawType Class.cast ,1
+3,Class.cast Choice$1.<init> Choice.<init> ,1
+3,List.size List.get List.add ,4
+3,Iterator.next String.equals String.startsWith ,16
+3,Iterators.transform Iterators.concat Choice$5$1.apply ,1
+3,Choice.<init> Choice.<init> Object.<init> ,12
+3,StringBuilder.append StringBuilder.toString InvalidCommandLineOptionException.<init> ,3
+3,SourceFile.replaceLines StringBuilder.length StringBuilder.<init> ,1
+3,LineNumberReader.getLineNumber LineNumberReader.readLine LineNumberReader.getLineNumber ,17
+4,ImmutableList.of Object.<init> StringBuilder.<init> StringBuilder.toString ,3
+4,Choice$1.<init> Choice.<init> Choice.<init> Object.<init> ,4
+4,ErrorProneOptions$Builder.build ImmutableMap.copyOf ErrorProneOptions.<init> ErrorProneOptions.<init> ,6
+4,Choice$2.<init> Choice.<init> Choice.<init> Object.<init> ,2
+4,Choice$3.<init> Choice.<init> Choice.<init> Object.<init> ,3
+4,PrintWriter.<init> BuiltInCheckerSuppliers.defaultChecks ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> ,2
+4,String.substring String.split StringBuilder.<init> StringBuilder.append ,1
+4,Enum.<init> ErrorProneOptions$Severity.<init> Enum.<init> ErrorProneOptions$Severity.<init> ,2
+4,Collections.emptyIterator Iterator.hasNext Optional.absent Object.<init> ,1
+4,Object.getClass Bindings$Key$1.<init> TypeToken.<init> TypeToken.getRawType ,1
+4,Choice$5.<init> Choice.<init> Choice.<init> Object.<init> ,1
+4,Choice$4.<init> Object.<init> Choice.iterator Thread.interrupted ,1
+4,Choice.asIterable Choice$4.<init> Object.<init> Iterables.transform ,1
+4,ForwardingMap.<init> Object.<init> Preconditions.checkNotNull Bindings$Key.getValueType ,1
+4,Bindings$Key.getValueType Object.getClass Bindings$Key$1.<init> TypeToken.<init> ,1
+4,StringBuilder.length StringBuilder.<init> Joiner.on Object.<init> ,3
+4,ImmutableList.builder ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> Object.<init> ,8
+4,ImmutableList.size ImmutableList.toArray Preconditions.checkNotNull ImmutableList.builder ,1
+4,ImmutableList$Builder.add Iterator.hasNext Iterator.next String.equals ,4
+4,StringReader.<init> LineNumberReader.<init> ArrayList.<init> LineNumberReader.readLine ,4
+4,Choice$8.<init> Choice.<init> Choice.<init> Object.<init> ,1
+4,Iterators.concat Choice$5$1.apply Function.apply Choice.iterator ,1
+4,Bindings.<init> HashMap.<init> Bindings.<init> ForwardingMap.<init> ,1
+4,ErrorProneOptions$Severity.<init> Enum.<init> ErrorProneOptions$Severity.<init> Enum.<init> ,3
+4,Choice$6.<init> Choice.<init> Choice.<init> Object.<init> ,1
+4,Iterable.iterator Iterator.hasNext Iterator.next String.equals ,8
+4,ErrorProneOptions.processArgs Preconditions.checkNotNull ImmutableList.builder ErrorProneOptions$Builder.<init> ,5
+4,ErrorProneOptions.<init> ErrorProneOptions.<init> Object.<init> Preconditions.checkNotNull ,3
+4,String.isEmpty StringBuilder.<init> StringBuilder.append StringBuilder.toString ,1
+4,Map.put Iterator.hasNext ImmutableList$Builder.build ErrorProneOptions$Builder.build ,4
+4,LineNumberReader.<init> ArrayList.<init> LineNumberReader.readLine LineNumberReader.getLineNumber ,4
+4,Collection.iterator Choice$5$1.<init> Object.<init> Iterators.transform ,1
+4,Optional.absent Object.<init> PrintWriter.<init> BuiltInCheckerSuppliers.defaultChecks ,1
+4,ImmutableMap.copyOf ErrorProneOptions.<init> ErrorProneOptions.<init> Object.<init> ,6
+4,Joiner.join StringBuilder.append StringBuilder.toString StringBuilder.replace ,2
+4,List.add List.size List.addAll List.size ,1
+4,Iterables.transform Optional.presentInstances Iterable.iterator Choice.iterator ,1
+4,String.length String.substring String.split StringBuilder.<init> ,1
+4,BuiltInCheckerSuppliers.defaultChecks ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> Object.<init> ,2
+4,Optional.presentInstances Iterable.iterator Choice.iterator Collection.iterator ,1
+4,Object.<init> HashMap.<init> ImmutableList.of Object.<init> ,3
+4,ImmutableList$Builder.build ErrorProneOptions$Builder.build ImmutableMap.copyOf ErrorProneOptions.<init> ,5
+4,String.equals String.startsWith ImmutableList$Builder.add Iterator.hasNext ,5
+4,Bindings$Key$1.<init> TypeToken.<init> TypeToken.getRawType Class.cast ,1
+4,ErrorProneOptions$Builder.<init> ErrorProneOptions$Builder.<init> Object.<init> HashMap.<init> ,12
+4,Choice.none Choice$8.<init> Choice.<init> Choice.<init> ,1
+4,StringBuilder.substring Object.<init> StringBuilder.<init> Preconditions.checkArgument ,4
+4,Arrays.asList ErrorProneOptions.processArgs Preconditions.checkNotNull ImmutableList.builder ,5
+4,String.split StringBuilder.<init> StringBuilder.append StringBuilder.toString ,1
+4,LineNumberReader.readLine LineNumberReader.getLineNumber LineNumberReader.readLine LineNumberReader.getLineNumber ,9
+4,List.addAll List.size List.get List.add ,1
+4,Choice$5$1.<init> Object.<init> Iterators.transform Iterators.concat ,1
+4,ImmutableList.toArray Preconditions.checkNotNull ImmutableList.builder ErrorProneOptions$Builder.<init> ,1
+4,Enum.valueOf ErrorProneOptions$Severity;.clone StringBuilder.<init> StringBuilder.append ,1
+4,Collection.size Choice$3.<init> Choice.<init> Choice.<init> ,3
+4,StringBuilder.<init> StringBuilder.toString Object.<init> StringBuilder.<init> ,4
+4,SourceFile.getLines CharSource.wrap CharSource.readLines ArrayList.<init> ,1
+4,Preconditions.checkArgument Object.<init> StringBuilder.<init> StringBuilder.substring ,3
+4,ArrayList.<init> List.size List.get List.add ,1
+4,CharSource.readLines Object.<init> StringBuilder.<init> StringBuilder.replace ,1
+4,ErrorProneOptions$Severity;.clone StringBuilder.<init> StringBuilder.append StringBuilder.toString ,1
+4,StringBuilder.replace StringBuilder.toString CharSource.wrap Object.<init> ,3
+4,InvalidCommandLineOptionException.<init> Exception.<init> Preconditions.checkNotNull ImmutableList.builder ,2
+4,CharSource.wrap Object.<init> StringBuilder.<init> StringBuilder.replace ,3
+4,String.startsWith ImmutableList$Builder.add Iterator.hasNext Iterator.next ,4
+4,Iterator.hasNext Optional.absent Object.<init> PrintWriter.<init> ,1
+4,Iterators.singletonIterator Choice$5$1.apply Function.apply Choice.iterator ,1
+4,Thread.interrupted Choice$5.<init> Choice.<init> Choice.<init> ,1
+4,ErrorProneOptions$Builder.putSeverity Map.put Iterator.hasNext ImmutableList$Builder.build ,4
+4,Joiner.on Object.<init> StringBuilder.<init> Preconditions.checkArgument ,3
+4,ErrorProneOptions$Severity.valueOf ErrorProneOptions$Severity.<init> Enum.<init> ErrorProneOptions$Severity.<init> ,1
+4,Function.apply Choice.iterator Collections.emptyIterator Choice$5$1.apply ,1
+4,HashMap.<init> ImmutableList.of Object.<init> StringBuilder.<init> ,3
+4,Exception.<init> Preconditions.checkNotNull ImmutableList.builder ErrorProneOptions$Builder.<init> ,2
+4,Choice$5$1.apply Function.apply Choice.iterator Collections.emptyIterator ,2
+4,Preconditions.checkNotNull Choice.iterator Collections.emptyIterator Iterator.hasNext ,2
+4,Choice.iterator Collections.emptyIterator Iterator.hasNext Optional.absent ,3
+4,JavacTool.create JavacTool.create Choice$1.<init> Choice.<init> ,3
+4,TypeToken.getRawType Class.cast Choice$1.<init> Choice.<init> ,1
+4,List.get List.add List.size List.addAll ,1
+4,StringBuilder.toString Object.<init> StringBuilder.<init> CharSource.wrap ,4
+4,TypeToken.<init> TypeToken.getRawType Class.cast Choice$1.<init> ,1
+4,Class.cast Choice$1.<init> Choice.<init> Choice.<init> ,1
+4,List.size List.get List.add List.size ,4
+4,Iterator.next String.equals String.startsWith ImmutableList$Builder.add ,5
+4,Iterators.transform Iterators.concat Choice$5$1.apply Function.apply ,1
+4,Choice.<init> Choice.<init> Object.<init> Preconditions.checkNotNull ,7
+4,StringBuilder.append StringBuilder.toString InvalidCommandLineOptionException.<init> Exception.<init> ,3
+4,SourceFile.replaceLines StringBuilder.length StringBuilder.<init> Joiner.on ,1
+4,LineNumberReader.getLineNumber LineNumberReader.readLine LineNumberReader.getLineNumber List.add ,11

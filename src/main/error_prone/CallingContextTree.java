@@ -1,5 +1,3 @@
-package main.error_prone;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -24,7 +22,7 @@ public class CallingContextTree {
 
 	public ArrayList<String> createCCT() throws IOException {
 		BufferedReader input = new BufferedReader(new FileReader(
-				"/src/main/error_prone/results/error-prone/ErrorProneStackTrace.txt"));
+				"results/error-prone/ErrorProneStackTrace.txt"));
 		Stack<String> stack = new Stack<String>();
 		ArrayList<String> list = new ArrayList<>();
 		String padding = "";
@@ -74,7 +72,7 @@ public class CallingContextTree {
 
 	public ArrayList<String> createTreeWithAnnotation(ArrayList<String> list) throws IOException {
 		BufferedWriter output = new BufferedWriter(new FileWriter(
-				"/src/main/error_prone/results/error-prone/ErrorProneCCT.txt"));
+				"results/error-prone/ErrorProneCCT.txt"));
 		int count = 1;
 		ArrayList<String> nlist = new ArrayList<>();
 		for (int i = 0; i < list.size() - 2; i++) {
@@ -104,7 +102,7 @@ public class CallingContextTree {
 
 	public void generateKLengthSequences(ArrayList<String> list) throws IOException {
 		BufferedWriter output = new BufferedWriter(new FileWriter(
-				"/src/main/error_prone/results/error-prone/ErrorProneKLength.txt"));
+				"results/error-prone/ErrorProneKLength.txt"));
 		Scanner sc = new Scanner(System.in);
 		int seqlen = 1;
 		System.out.println("Enter the threshold length k");

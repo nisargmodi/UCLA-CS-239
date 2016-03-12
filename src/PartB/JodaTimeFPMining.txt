@@ -1,0 +1,996 @@
+['src/main/java/org/joda/time/base/AbstractInterval.java'] 10
+['src/site/markdown/index.md'] 13
+['JodaTime/src/test/org/joda/time/TestMutableInterval_Basics.java'] 16
+"['JodaTime/src/test/org/joda/time/TestMutableInterval_Basics.java', 'JodaTime/src/test/org/joda/time/TestInterval_Basics.java']" 15
+['JodaTime/src/java/org/joda/time/DateTimeComparator.java'] 18
+['JodaTime/src/java/org/joda/time/convert/DurationConverter.java'] 11
+['JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java'] 23
+"['JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java', 'JodaTime/src/java/org/joda/time/Period.java']" 10
+"['JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+['JodaTime/src/test/org/joda/time/format/TestAll.java'] 14
+['JodaTime/src/java/org/joda/time/chrono/GJChronology.java'] 27
+"['JodaTime/src/java/org/joda/time/chrono/GJChronology.java', 'JodaTime/src/java/org/joda/time/chrono/CopticChronology.java']" 12
+['JodaTime/xdocs/tasks.xml'] 15
+['JodaTime/xdocs/faq.xml'] 19
+['JodaTime/ToDo.txt'] 34
+['JodaTime/src/test/org/joda/time/TestDateTime_Properties.java'] 21
+['JodaTime/xdocs/index.xml'] 58
+"['JodaTime/xdocs/index.xml', 'JodaTime/project.xml']" 12
+['JodaTime/src/test/org/joda/time/TestDateMidnight_Properties.java'] 12
+"['JodaTime/src/test/org/joda/time/TestDateMidnight_Properties.java', 'JodaTime/src/test/org/joda/time/TestDateTime_Properties.java']" 11
+['src/site/xdoc/upgradeto200.xml'] 10
+['src/main/java/org/joda/time/tz/src/antarctica'] 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/southamerica']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/southamerica', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/asia']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/antarctica', 'RELEASE-NOTES.txt']" 10
+['JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java'] 12
+['src/main/java/org/joda/time/DateTimeZone.java'] 16
+"['src/main/java/org/joda/time/DateTimeZone.java', 'RELEASE-NOTES.txt']" 14
+['JodaTime/src/java/org/joda/time/AbstractDateTime.java'] 18
+['JodaTime/src/test/org/joda/time/TestPeriodType.java'] 11
+['JodaTime/src/java/org/joda/time/DateTimeField.java'] 22
+"['JodaTime/src/java/org/joda/time/DateTimeField.java', 'JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java']" 14
+['JodaTime/src/test/org/joda/time/TestLocalDate_Basics.java'] 13
+"['JodaTime/src/test/org/joda/time/TestLocalDate_Basics.java', 'JodaTime/src/java/org/joda/time/LocalDate.java']" 12
+['JodaTimeContrib/hibernate/project.xml'] 19
+['JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java'] 26
+"['JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateTime_Basics.java']" 23
+['JodaTime/src/test/org/joda/time/TestDuration_Constructors.java'] 15
+"['JodaTime/src/test/org/joda/time/TestDuration_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/TestDuration_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/TestDuration_Constructors.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 12
+['JodaTime/src/java/org/joda/time/ReadableInstant.java'] 20
+"['JodaTime/src/java/org/joda/time/ReadableInstant.java', 'JodaTime/src/java/org/joda/time/Instant.java']" 10
+"['JodaTime/src/java/org/joda/time/ReadableInstant.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java']" 10
+['JodaTime/src/java/org/joda/time/LocalDate.java'] 30
+"['JodaTime/src/java/org/joda/time/LocalDate.java', 'JodaTime/RELEASE-NOTES.txt']" 14
+['JodaTime/src/java/org/joda/time/tz/src/asia'] 48
+"['JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 46
+"['JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt', 'JodaTime/RELEASE-NOTES.txt']" 22
+"['JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/RELEASE-NOTES.txt']" 23
+['JodaTime/src/test/org/joda/time/TestMutableInterval_Constructors.java'] 11
+"['JodaTime/src/test/org/joda/time/TestMutableInterval_Constructors.java', 'JodaTime/src/test/org/joda/time/TestInterval_Constructors.java']" 10
+['JodaTime/src/java/org/joda/time/MutableDuration.java'] 10
+['JodaTime/src/java/org/joda/time/ReadWritableInstant.java'] 16
+"['JodaTime/src/java/org/joda/time/ReadWritableInstant.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java']" 14
+['JodaTime/src/java/org/joda/time/format/ISOPeriodFormat.java'] 12
+['JodaTimeContrib/jsptags/project.xml'] 22
+['JodaTime/src/java/org/joda/time/ReadablePartial.java'] 13
+['JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java'] 17
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java']" 10
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Basics.java']" 10
+['JodaTime/src/test/org/joda/time/TestMutableDateTime_Sets.java'] 11
+['JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java'] 18
+"['JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java', 'JodaTime/src/java/org/joda/time/chrono/GJChronology.java']" 13
+"['JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java', 'JodaTime/src/java/org/joda/time/chrono/CopticChronology.java']" 11
+['JodaTime/src/java/org/joda/time/LocalDateTime.java'] 24
+"['JodaTime/src/java/org/joda/time/LocalDateTime.java', 'JodaTime/src/java/org/joda/time/LocalDate.java']" 18
+['JodaTime/src/java/org/joda/time/convert/CalendarConverter.java'] 14
+"['JodaTime/src/java/org/joda/time/convert/CalendarConverter.java', 'JodaTime/src/java/org/joda/time/convert/AbstractConverter.java']" 10
+['JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java'] 20
+"['JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java', 'JodaTime/src/java/org/joda/time/DateTimeField.java']" 16
+"['JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java', 'JodaTime/src/java/org/joda/time/DateTimeField.java', 'JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java']" 14
+"['JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java', 'JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java']" 14
+['JodaTime/src/java/org/joda/time/DateTimeUtils.java'] 29
+['JodaTime/src/java/org/joda/time/tz/src/southamerica'] 38
+"['JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 31
+"['JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 29
+"['JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt', 'JodaTime/RELEASE-NOTES.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/RELEASE-NOTES.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 36
+"['JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt', 'JodaTime/RELEASE-NOTES.txt']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/RELEASE-NOTES.txt']" 16
+['src/main/java/org/joda/time/LocalDate.java'] 12
+['JodaTime/.cvsignore'] 10
+['JodaTime/RELEASE-NOTES.txt'] 250
+['JodaTime/src/test/org/joda/time/convert/TestReadableInstantConverter.java'] 13
+"['JodaTime/src/test/org/joda/time/convert/TestReadableInstantConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestLongConverter.java']" 10
+['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java'] 17
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 13
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 13
+"['JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+['JodaTime/src/java/org/joda/time/tz/FixedDateTimeZone.java'] 11
+['JodaTime/src/java/org/joda/time/convert/NullConverter.java'] 15
+"['JodaTime/src/java/org/joda/time/convert/NullConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java']" 10
+"['JodaTime/src/java/org/joda/time/convert/NullConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 10
+"['JodaTime/src/java/org/joda/time/convert/NullConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 11
+['src/test/java/org/joda/time/format/TestPeriodFormat.java'] 12
+['JodaTime/xdocs/installation.xml'] 19
+"['JodaTime/xdocs/installation.xml', 'JodaTime/xdocs/index.xml']" 15
+['JodaTime/src/java/org/joda/time/tz/src/africa'] 26
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 20
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 18
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/RELEASE-NOTES.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 24
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt', 'JodaTime/RELEASE-NOTES.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 17
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/RELEASE-NOTES.txt']" 14
+['JodaTime/src/java/org/joda/time/tz/src/europe'] 30
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 25
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 21
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 20
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 24
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 21
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 18
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 17
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 20
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 25
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 24
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 29
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt', 'JodaTime/RELEASE-NOTES.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 24
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 20
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 19
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 23
+"['JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/RELEASE-NOTES.txt']" 11
+['JodaTime/src/java/org/joda/time/base/AbstractDateTime.java'] 16
+['src/main/java/org/joda/time/tz/src/Readme.txt'] 20
+"['src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 19
+['JodaTime/src/java/org/joda/time/MutableDateTime.java'] 48
+"['JodaTime/src/java/org/joda/time/MutableDateTime.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 22
+['JodaTime/src/test/org/joda/time/format/TestDateTimeFormat.java'] 22
+['JodaTime/src/java/org/joda/time/chrono/GJDayOfWeekDateTimeField.java'] 10
+['JodaTime/src/java/org/joda/time/DurationField.java'] 12
+['JodaTimeContrib/jsptags/xdocs/navigation.xml'] 13
+['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java'] 17
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java']" 13
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 15
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 14
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 14
+"['JodaTime/src/test/org/joda/time/convert/TestLongConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+['JodaTime/src/java/org/joda/time/format/AbstractDateTimeFormatter.java'] 11
+['JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java'] 11
+"['JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java']" 11
+['JodaTime/src/java/org/joda/time/base/BasePartial.java'] 24
+"['JodaTime/src/java/org/joda/time/base/BasePartial.java', 'JodaTime/src/java/org/joda/time/YearMonthDay.java']" 13
+"['JodaTime/src/java/org/joda/time/base/BasePartial.java', 'JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java']" 13
+"['JodaTime/src/java/org/joda/time/base/BasePartial.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java']" 17
+['JodaTime/src/java/org/joda/time/package.html'] 14
+['JodaTime/src/conf/MANIFEST.MF'] 18
+['src/main/java/org/joda/time/tz/src/northamerica'] 16
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 15
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 15
+"['src/main/java/org/joda/time/tz/src/northamerica', 'pom.xml']" 10
+"['src/main/java/org/joda/time/tz/src/northamerica', 'pom.xml', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia']" 15
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 14
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 15
+"['src/main/java/org/joda/time/tz/src/northamerica', 'RELEASE-NOTES.txt']" 16
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe']" 15
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 14
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 15
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 14
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 15
+"['src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 15
+['JodaTime/src/java/org/joda/time/Chronology.java'] 28
+"['JodaTime/src/java/org/joda/time/Chronology.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java']" 11
+"['JodaTime/src/java/org/joda/time/Chronology.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 10
+['JodaTime/src/java/org/joda/time/ReadableInterval.java'] 19
+"['JodaTime/src/java/org/joda/time/ReadableInterval.java', 'JodaTime/src/java/org/joda/time/Interval.java']" 13
+['JodaTime/src/java/org/joda/time/tz/src/northamerica'] 37
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 30
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 29
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/RELEASE-NOTES.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 36
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt', 'JodaTime/RELEASE-NOTES.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 25
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 22
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 21
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 24
+"['JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/RELEASE-NOTES.txt']" 15
+['src/main/java/org/joda/time/format/DateTimeFormat.java'] 22
+['RELEASE-NOTES.txt'] 173
+['JodaTime/src/java/org/joda/time/chrono/GJWeekyearDateTimeField.java'] 10
+['JodaTime/src/java/org/joda/time/tz/src/antarctica'] 13
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/africa']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/antarctica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+['JodaTime/src/java/org/joda/time/overview.html'] 10
+['JodaTime/src/java/org/joda/time/chrono/GJLocaleSymbols.java'] 11
+['src/site/xdoc/index.xml'] 18
+"['src/site/xdoc/index.xml', 'pom.xml']" 12
+"['src/site/xdoc/index.xml', 'src/site/xdoc/installation.xml']" 10
+['JodaTime/src/java/org/joda/time/DateTimeFieldType.java'] 14
+['src/main/java/org/joda/time/Duration.java'] 12
+['JodaTime/src/java/org/joda/time/base/BasePeriod.java'] 19
+"['JodaTime/src/java/org/joda/time/base/BasePeriod.java', 'JodaTime/src/java/org/joda/time/Period.java']" 13
+['JodaTime/src/java/org/joda/time/Partial.java'] 15
+['JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java'] 27
+"['JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java', 'JodaTime/src/java/org/joda/time/chrono/GJChronology.java']" 14
+"['JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java']" 10
+['JodaTime/src/java/org/joda/time/convert/StringConverter.java'] 34
+"['JodaTime/src/java/org/joda/time/convert/StringConverter.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java']" 13
+[''] 16
+['src/main/java/org/joda/time/format/DateTimeFormatter.java'] 21
+"['src/main/java/org/joda/time/format/DateTimeFormatter.java', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/format/DateTimeFormatter.java', 'src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 10
+['JodaTime/src/test/org/joda/time/TestDateTimeZone.java'] 23
+"['JodaTime/src/test/org/joda/time/TestDateTimeZone.java', 'JodaTime/src/java/org/joda/time/DateTimeZone.java']" 10
+['JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java'] 56
+"['JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java', 'JodaTime/RELEASE-NOTES.txt']" 13
+['JodaTime/src/java/org/joda/time/ReadWritableDateTime.java'] 10
+['JodaTime/src/java/org/joda/time/base/AbstractPeriod.java'] 12
+['JodaTime/src/java/org/joda/time/chrono/ISOYearOfEraDateTimeField.java'] 10
+['src/main/java/org/joda/time/tz/src/africa'] 14
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica']" 13
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'RELEASE-NOTES.txt']" 13
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'RELEASE-NOTES.txt']" 13
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/europe']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/africa', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 12
+['JodaTime/src/java/org/joda/time/tz/src/backward'] 18
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/africa']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 17
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 17
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/backward', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 15
+['JodaTime/src/java/org/joda/time/ReadWritableInterval.java'] 11
+['src/main/java/org/joda/time/tz/src/southamerica'] 16
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 15
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 15
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia']" 15
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 14
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 15
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica']" 13
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'RELEASE-NOTES.txt']" 13
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe']" 12
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/southamerica', 'RELEASE-NOTES.txt']" 16
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe']" 14
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 13
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 13
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 14
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 13
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 13
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 14
+['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java'] 19
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/TestInterval_Constructors.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/TestInterval_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 13
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 13
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 15
+"['JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+['JodaTime/src/java/org/joda/time/DateTimeConstants.java'] 12
+['JodaTime/src/test/org/joda/time/TestDuration_Basics.java'] 28
+['JodaTime/src/java/org/joda/time/format/DateTimeParserBucket.java'] 21
+"['JodaTime/src/java/org/joda/time/format/DateTimeParserBucket.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatter.java']" 10
+"['JodaTime/src/java/org/joda/time/format/DateTimeParserBucket.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 12
+['JodaTime/src/java/org/joda/time/DateMidnight.java'] 35
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java']" 12
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 12
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/YearMonthDay.java']" 14
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 12
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java']" 11
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 10
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 26
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java']" 12
+"['JodaTime/src/java/org/joda/time/DateMidnight.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 11
+['JodaTime/src/java/org/joda/time/base/AbstractInterval.java'] 17
+"['JodaTime/src/java/org/joda/time/base/AbstractInterval.java', 'JodaTime/src/java/org/joda/time/Interval.java']" 10
+"['JodaTime/src/java/org/joda/time/base/AbstractInterval.java', 'JodaTime/src/test/org/joda/time/TestInterval_Basics.java']" 10
+['JodaTime/src/java/org/joda/time/LocalTime.java'] 23
+"['JodaTime/src/java/org/joda/time/LocalTime.java', 'JodaTime/src/java/org/joda/time/LocalDate.java']" 16
+"['JodaTime/src/java/org/joda/time/LocalTime.java', 'JodaTime/src/java/org/joda/time/LocalDateTime.java']" 14
+"['JodaTime/src/java/org/joda/time/LocalTime.java', 'JodaTime/src/java/org/joda/time/LocalDateTime.java', 'JodaTime/src/java/org/joda/time/LocalDate.java']" 13
+"['JodaTime/src/java/org/joda/time/LocalTime.java', 'JodaTime/RELEASE-NOTES.txt']" 10
+['pom.xml'] 103
+"['pom.xml', 'RELEASE-NOTES.txt']" 50
+['JodaTime/src/test/org/joda/time/chrono/TestISOChronology.java'] 10
+['src/test/java/org/joda/time/format/TestPeriodFormatterBuilder.java'] 13
+"['src/test/java/org/joda/time/format/TestPeriodFormatterBuilder.java', 'src/main/java/org/joda/time/format/PeriodFormatterBuilder.java']" 13
+['JodaTime/src/java/org/joda/time/field/MillisDurationField.java'] 11
+['JodaTime/src/test/org/joda/time/TestMutableDateTime_Adds.java'] 12
+['JodaTime/src/java/org/joda/time/chrono/BaseChronology.java'] 15
+"['JodaTime/src/java/org/joda/time/chrono/BaseChronology.java', 'JodaTime/src/java/org/joda/time/Chronology.java']" 10
+['JodaTime/src/test/org/joda/time/chrono/TestGJChronology.java'] 10
+['README.md'] 19
+"['README.md', 'pom.xml']" 11
+['JodaTime/src/java/org/joda/time/chrono/BaseGJChronology.java'] 21
+"['JodaTime/src/java/org/joda/time/chrono/BaseGJChronology.java', 'JodaTime/src/java/org/joda/time/chrono/CopticChronology.java']" 10
+['JodaTime/src/test/org/joda/time/chrono/TestCopticChronology.java'] 12
+['JodaTime/src/test/org/joda/time/TestDateTime_Basics.java'] 32
+"['JodaTime/src/test/org/joda/time/TestDateTime_Basics.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 10
+['JodaTime/src/test/org/joda/time/TestTimeOfDay_Constructors.java'] 16
+['JodaTime/src/java/org/joda/time/chrono/GregorianChronology.java'] 18
+"['JodaTime/src/java/org/joda/time/chrono/GregorianChronology.java', 'JodaTime/src/java/org/joda/time/chrono/JulianChronology.java']" 18
+"['JodaTime/src/java/org/joda/time/chrono/GregorianChronology.java', 'JodaTime/src/java/org/joda/time/chrono/JulianChronology.java', 'JodaTime/src/java/org/joda/time/chrono/CopticChronology.java']" 17
+"['JodaTime/src/java/org/joda/time/chrono/GregorianChronology.java', 'JodaTime/src/java/org/joda/time/chrono/CopticChronology.java']" 17
+['JodaTime/src/java/org/joda/time/DateTime.java'] 54
+['JodaTime/src/test/org/joda/time/TestPeriod_Basics.java'] 23
+"['JodaTime/src/test/org/joda/time/TestPeriod_Basics.java', 'JodaTime/src/java/org/joda/time/Period.java']" 12
+['JodaTime/src/java/org/joda/time/Duration.java'] 27
+"['JodaTime/src/java/org/joda/time/Duration.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 13
+"['JodaTime/src/java/org/joda/time/Duration.java', 'JodaTime/src/java/org/joda/time/AbstractDuration.java']" 12
+['JodaTime/src/java/org/joda/time/chrono/CopticYearDateTimeField.java'] 10
+['src/test/java/org/joda/time/TestDateTimeZone.java'] 13
+['src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java'] 11
+['src/site/xdoc/installation.xml'] 19
+"['src/site/xdoc/installation.xml', 'pom.xml']" 16
+"['src/site/xdoc/installation.xml', 'README.md']" 11
+"['src/site/xdoc/installation.xml', 'README.md', 'pom.xml']" 11
+['JodaTime/src/java/org/joda/time/chrono/GJEraDateTimeField.java'] 12
+"['JodaTime/src/java/org/joda/time/chrono/GJEraDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJMonthOfYearDateTimeField.java']" 10
+['src/main/java/org/joda/time/tz/src/australasia'] 14
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 10
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe']" 11
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 11
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 11
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/southamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 11
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 14
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/asia']" 14
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 14
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/northamerica', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 12
+"['src/main/java/org/joda/time/tz/src/australasia', 'RELEASE-NOTES.txt']" 14
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe']" 13
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 13
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 13
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 13
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 13
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 13
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 13
+"['src/main/java/org/joda/time/tz/src/australasia', 'src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 13
+['JodaTime/src/test/org/joda/time/convert/TestConverterManager.java'] 20
+"['JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 12
+"['JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 14
+"['JodaTime/src/test/org/joda/time/convert/TestConverterManager.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 10
+['JodaTime/src/test/org/joda/time/TestMutablePeriod_Basics.java'] 12
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Basics.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Basics.java']" 12
+['JodaTime/src/java/org/joda/time/format/PeriodFormatterBuilder.java'] 30
+['JodaTime/src/java/org/joda/time/field/FieldUtils.java'] 16
+['JodaTime/src/java/org/joda/time/convert/ConverterManager.java'] 22
+"['JodaTime/src/java/org/joda/time/convert/ConverterManager.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 12
+['JodaTime/src/java/org/joda/time/TimeOfDay.java'] 44
+"['JodaTime/src/java/org/joda/time/TimeOfDay.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 11
+"['JodaTime/src/java/org/joda/time/TimeOfDay.java', 'JodaTime/RELEASE-NOTES.txt']" 13
+['JodaTime/src/java/org/joda/time/base/AbstractPartial.java'] 17
+"['JodaTime/src/java/org/joda/time/base/AbstractPartial.java', 'JodaTime/src/java/org/joda/time/base/BasePartial.java']" 10
+"['JodaTime/src/java/org/joda/time/base/AbstractPartial.java', 'JodaTime/src/java/org/joda/time/YearMonthDay.java']" 10
+"['JodaTime/src/java/org/joda/time/base/AbstractPartial.java', 'JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java']" 10
+"['JodaTime/src/java/org/joda/time/base/AbstractPartial.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java']" 11
+['src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java'] 26
+"['src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java', 'RELEASE-NOTES.txt']" 14
+['JodaTime/src/java/org/joda/time/chrono/AbstractGJChronology.java'] 10
+['JodaTimeContrib/jsptags/build.xml'] 13
+"['JodaTimeContrib/jsptags/build.xml', 'JodaTimeContrib/jsptags/project.xml']" 11
+['JodaTimeContrib/hibernate/xdocs/navigation.xml'] 11
+['JodaTime/src/java/org/joda/time/field/NonZeroDateTimeField.java'] 10
+['src/main/java/org/joda/time/chrono/GJChronology.java'] 12
+['JodaTime/src/java/org/joda/time/convert/AbstractConverter.java'] 19
+"['JodaTime/src/java/org/joda/time/convert/AbstractConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java']" 11
+"['JodaTime/src/java/org/joda/time/convert/AbstractConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 10
+"['JodaTime/src/java/org/joda/time/convert/AbstractConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 14
+['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java'] 15
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java']" 13
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java']" 11
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java']" 10
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+['JodaTime/src/java/org/joda/time/Interval.java'] 32
+['JodaTime/src/java/org/joda/time/chrono/IslamicChronology.java'] 12
+['JodaTime/src/java/org/joda/time/base/AbstractInstant.java'] 21
+['JodaTime/src/java/org/joda/time/chrono/ISOChronology.java'] 16
+"['JodaTime/src/java/org/joda/time/chrono/ISOChronology.java', 'JodaTime/src/java/org/joda/time/chrono/GJChronology.java']" 13
+"['JodaTime/src/java/org/joda/time/chrono/ISOChronology.java', 'JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java']" 11
+"['JodaTime/src/java/org/joda/time/chrono/ISOChronology.java', 'JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java', 'JodaTime/src/java/org/joda/time/chrono/GJChronology.java']" 11
+['JodaTime/src/java/org/joda/time/Instant.java'] 23
+"['JodaTime/src/java/org/joda/time/Instant.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java']" 12
+"['JodaTime/src/java/org/joda/time/Instant.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 11
+"['JodaTime/src/java/org/joda/time/Instant.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 16
+['JodaTime/build.xml'] 53
+"['JodaTime/build.xml', 'JodaTime/xdocs/index.xml']" 11
+"['JodaTime/build.xml', 'JodaTime/project.xml']" 20
+['JodaTime/src/java/org/joda/time/ReadableDuration.java'] 18
+"['JodaTime/src/java/org/joda/time/ReadableDuration.java', 'JodaTime/src/java/org/joda/time/AbstractDuration.java']" 11
+['JodaTime/xdocs/userguide.xml'] 27
+['JodaTime/src/main/java/org/joda/time/DateTimeZone.java'] 11
+['JodaTime/src/java/org/joda/time/chrono/GJMonthOfYearDateTimeField.java'] 14
+"['JodaTime/src/java/org/joda/time/chrono/GJMonthOfYearDateTimeField.java', 'JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java']" 10
+['src/test/java/org/joda/time/format/TestDateTimeFormatterBuilder.java'] 12
+"['src/test/java/org/joda/time/format/TestDateTimeFormatterBuilder.java', 'src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 10
+['JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java'] 12
+"['JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableInstantConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestReadableInstantConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestLongConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestLongConverter.java']" 10
+['JodaTime/src/java/org/joda/time/AbstractInstant.java'] 16
+['JodaTime/src/java/org/joda/time/tz/ZoneInfoProvider.java'] 10
+['JodaTime/src/java/org/joda/time/convert/LongConverter.java'] 20
+"['JodaTime/src/java/org/joda/time/convert/LongConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 13
+['src/main/java/org/joda/time/format/PeriodFormatterBuilder.java'] 22
+['JodaTime/src/java/org/joda/time/YearMonthDay.java'] 42
+"['JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 12
+"['JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java']" 36
+"['JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java', 'JodaTime/src/java/org/joda/time/DateTime.java']" 10
+"['JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/src/java/org/joda/time/TimeOfDay.java', 'JodaTime/RELEASE-NOTES.txt']" 10
+"['JodaTime/src/java/org/joda/time/YearMonthDay.java', 'JodaTime/RELEASE-NOTES.txt']" 10
+['JodaTime/src/java/org/joda/time/DurationType.java'] 13
+['JodaTime/src/java/org/joda/time/partial/TimeOfDay.java'] 17
+['JodaTime/src/test/org/joda/time/TestYearMonthDay_Basics.java'] 18
+['JodaTime/src/test/org/joda/time/TestInterval_Basics.java'] 25
+"['JodaTime/src/test/org/joda/time/TestInterval_Basics.java', 'JodaTime/src/java/org/joda/time/Interval.java']" 13
+['JodaTimeContrib/jsptags/xdocs/index.xml'] 10
+['JodaTime/src/java/org/joda/time/chrono/CopticChronology.java'] 30
+['JodaTime/src/java/org/joda/time/chrono/AssembledChronology.java'] 11
+['src/main/java/org/joda/time/DateTime.java'] 14
+['JodaTime/src/java/org/joda/time/chrono/package.html'] 10
+['JodaTime/src/java/org/joda/time/field/AbstractReadableInstantFieldProperty.java'] 12
+['JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java'] 16
+"['JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java', 'JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java']" 11
+"['JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java', 'JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java']" 10
+"['JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java', 'JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 10
+"['JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java', 'JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 11
+"['JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java']" 14
+"['JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 11
+"['JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 12
+['src/main/java/org/joda/time/tz/ZoneInfoCompiler.java'] 19
+['JodaTime/src/java/org/joda/time/AbstractInterval.java'] 21
+"['JodaTime/src/java/org/joda/time/AbstractInterval.java', 'JodaTime/src/java/org/joda/time/Interval.java']" 12
+"['JodaTime/src/java/org/joda/time/AbstractInterval.java', 'JodaTime/src/java/org/joda/time/MutableInterval.java']" 10
+"['JodaTime/src/java/org/joda/time/AbstractInterval.java', 'JodaTime/src/java/org/joda/time/MutableInterval.java', 'JodaTime/src/java/org/joda/time/Interval.java']" 10
+"['JodaTime/src/java/org/joda/time/AbstractInterval.java', 'JodaTime/src/java/org/joda/time/AbstractDuration.java']" 10
+['src/main/java/org/joda/time/LocalDateTime.java'] 13
+['src/main/java/org/joda/time/tz/src/europe'] 17
+"['src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 16
+"['src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 16
+"['src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia']" 17
+"['src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 16
+"['src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 16
+"['src/main/java/org/joda/time/tz/src/europe', 'src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 17
+"['src/main/java/org/joda/time/tz/src/europe', 'RELEASE-NOTES.txt']" 17
+['JodaTime/src/java/org/joda/time/format/DateTimeFormat.java'] 35
+"['JodaTime/src/java/org/joda/time/format/DateTimeFormat.java', 'JodaTime/src/java/org/joda/time/DateTimeZone.java']" 10
+"['JodaTime/src/java/org/joda/time/format/DateTimeFormat.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 21
+['JodaTime/src/test/org/joda/time/convert/TestStringConverter.java'] 23
+"['JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 11
+['JodaTime/src/java/org/joda/time/tz/src/Readme.txt'] 64
+"['JodaTime/src/java/org/joda/time/tz/src/Readme.txt', 'JodaTime/RELEASE-NOTES.txt']" 35
+['JodaTime/src/java/org/joda/time/MutablePeriod.java'] 18
+"['JodaTime/src/java/org/joda/time/MutablePeriod.java', 'JodaTime/src/java/org/joda/time/Period.java']" 13
+['JodaTime/src/java/org/joda/time/AbstractDuration.java'] 28
+['JodaTime/src/java/org/joda/time/format/FormatUtils.java'] 10
+['JodaTime/src/test/org/joda/time/convert/TestDateConverter.java'] 11
+"['JodaTime/src/test/org/joda/time/convert/TestDateConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java']" 11
+['JodaTime/src/java/org/joda/time/chrono/GJYearOfEraDateTimeField.java'] 13
+['JodaTime/src/java/org/joda/time/chrono/GJYearDateTimeField.java'] 10
+['JodaTimeContrib/hibernate/pom.xml'] 12
+['JodaTime/src/test/org/joda/time/TestMutableDateTime_Basics.java'] 16
+"['JodaTime/src/test/org/joda/time/TestMutableDateTime_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java']" 12
+"['JodaTime/src/test/org/joda/time/TestMutableDateTime_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateTime_Basics.java']" 12
+"['JodaTime/src/test/org/joda/time/TestMutableDateTime_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateTime_Basics.java']" 13
+['JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java'] 17
+"['JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java', 'JodaTime/src/java/org/joda/time/DateTimeField.java']" 14
+"['JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java', 'JodaTime/src/java/org/joda/time/DateTimeField.java', 'JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java']" 13
+"['JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java', 'JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java']" 15
+"['JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java', 'JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java', 'JodaTime/src/java/org/joda/time/DateTimeField.java']" 14
+"['JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java', 'JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java', 'JodaTime/src/java/org/joda/time/DateTimeField.java', 'JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java']" 13
+"['JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java', 'JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java', 'JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java']" 13
+"['JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java', 'JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java']" 13
+['JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java'] 11
+"['JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java']" 10
+"['JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java']" 10
+"['JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java']" 10
+"['JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java']" 11
+"['JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java']" 10
+"['JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java']" 10
+"['JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java']" 10
+['JodaTime/src/java/org/joda/time/chrono/JulianChronology.java'] 22
+"['JodaTime/src/java/org/joda/time/chrono/JulianChronology.java', 'JodaTime/src/java/org/joda/time/chrono/GJChronology.java']" 12
+"['JodaTime/src/java/org/joda/time/chrono/JulianChronology.java', 'JodaTime/src/java/org/joda/time/chrono/GJChronology.java', 'JodaTime/src/java/org/joda/time/chrono/CopticChronology.java']" 11
+"['JodaTime/src/java/org/joda/time/chrono/JulianChronology.java', 'JodaTime/src/java/org/joda/time/chrono/CopticChronology.java']" 20
+['src/main/java/org/joda/time/DateTimeUtils.java'] 13
+['JodaTime/src/test/org/joda/time/TestTimeOfDay_Basics.java'] 14
+"['JodaTime/src/test/org/joda/time/TestTimeOfDay_Basics.java', 'JodaTime/src/test/org/joda/time/TestYearMonthDay_Basics.java']" 14
+['JodaTime/src/java/org/joda/time/MutableInterval.java'] 24
+"['JodaTime/src/java/org/joda/time/MutableInterval.java', 'JodaTime/src/java/org/joda/time/Interval.java']" 16
+"['JodaTime/src/java/org/joda/time/MutableInterval.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 10
+['JodaTime/src/java/org/joda/time/chrono/LimitChronology.java'] 18
+"['JodaTime/src/java/org/joda/time/chrono/LimitChronology.java', 'JodaTime/src/java/org/joda/time/chrono/GJChronology.java']" 14
+"['JodaTime/src/java/org/joda/time/chrono/LimitChronology.java', 'JodaTime/src/java/org/joda/time/MutableDateTime.java']" 12
+"['JodaTime/src/java/org/joda/time/chrono/LimitChronology.java', 'JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java']" 15
+"['JodaTime/src/java/org/joda/time/chrono/LimitChronology.java', 'JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java', 'JodaTime/src/java/org/joda/time/chrono/GJChronology.java']" 12
+"['JodaTime/src/java/org/joda/time/chrono/LimitChronology.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormat.java']" 10
+"['JodaTime/src/java/org/joda/time/chrono/LimitChronology.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 10
+['JodaTime/src/test/org/joda/time/TestInterval_Constructors.java'] 20
+"['JodaTime/src/test/org/joda/time/TestInterval_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/TestInterval_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/TestInterval_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 11
+['JodaTime/src/java/org/joda/time/Period.java'] 30
+['JodaTime/src/java/org/joda/time/chrono/CopticEraDateTimeField.java'] 11
+['JodaTime/src/java/org/joda/time/DateTimeZone.java'] 41
+"['JodaTime/src/java/org/joda/time/DateTimeZone.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 11
+"['JodaTime/src/java/org/joda/time/DateTimeZone.java', 'JodaTime/RELEASE-NOTES.txt']" 13
+['src/conf/MANIFEST.MF'] 15
+"['src/conf/MANIFEST.MF', 'pom.xml']" 14
+"['src/conf/MANIFEST.MF', 'README.md']" 11
+"['src/conf/MANIFEST.MF', 'README.md', 'pom.xml']" 11
+"['src/conf/MANIFEST.MF', 'src/site/xdoc/installation.xml']" 15
+"['src/conf/MANIFEST.MF', 'src/site/xdoc/installation.xml', 'pom.xml']" 14
+"['src/conf/MANIFEST.MF', 'src/site/xdoc/installation.xml', 'README.md']" 11
+"['src/conf/MANIFEST.MF', 'src/site/xdoc/installation.xml', 'README.md', 'pom.xml']" 11
+['JodaTime/src/test/org/joda/time/TestYearMonthDay_Properties.java'] 10
+['JodaTimeContrib/hibernate/xdocs/changes.xml'] 12
+['JodaTime/src/java/org/joda/time/chrono/LenientChronology.java'] 10
+"['JodaTime/src/java/org/joda/time/chrono/LenientChronology.java', 'JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java']" 10
+['JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java'] 17
+"['JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java']" 10
+"['JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java', 'JodaTime/src/java/org/joda/time/convert/LongConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 10
+"['JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 16
+['JodaTime/src/java/org/joda/time/tz/DateTimeZoneBuilder.java'] 21
+['JodaTime/src/test/org/joda/time/format/TestDateTimeFormatter.java'] 13
+['src/main/java/org/joda/time/tz/src/asia'] 18
+"['src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt']" 17
+"['src/main/java/org/joda/time/tz/src/asia', 'src/main/java/org/joda/time/tz/src/Readme.txt', 'RELEASE-NOTES.txt']" 17
+"['src/main/java/org/joda/time/tz/src/asia', 'RELEASE-NOTES.txt']" 18
+['JodaTime/src/java/org/joda/time/field/AbstractPartialFieldProperty.java'] 14
+['JodaTime/src/java/org/joda/time/tz/src/australasia'] 23
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 12
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 10
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/africa', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 11
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe']" 17
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 17
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/europe', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica']" 18
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 17
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 13
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/northamerica', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 18
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 17
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 22
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica']" 16
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia']" 15
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/asia', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 14
+"['JodaTime/src/java/org/joda/time/tz/src/australasia', 'JodaTime/src/java/org/joda/time/tz/src/southamerica', 'JodaTime/src/java/org/joda/time/tz/src/Readme.txt']" 15
+['JodaTime/project.xml'] 59
+"['JodaTime/project.xml', 'JodaTime/RELEASE-NOTES.txt']" 15
+['JodaTime/src/java/org/joda/time/PeriodType.java'] 19
+['JodaTime/src/java/org/joda/time/format/DateTimeFormatter.java'] 27
+"['JodaTime/src/java/org/joda/time/format/DateTimeFormatter.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 11
+['JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java'] 11
+"['JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java']" 10
+"['JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java']" 10
+"['JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java', 'JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java']" 10
+['JodaTime/xdocs/navigation.xml'] 35
+"['JodaTime/xdocs/navigation.xml', 'JodaTime/xdocs/index.xml']" 17
+['JodaTime/pom.xml'] 12
+['JodaTime/src/test/org/joda/time/format/TestPeriodFormatterBuilder.java'] 15
+"['JodaTime/src/test/org/joda/time/format/TestPeriodFormatterBuilder.java', 'JodaTime/src/java/org/joda/time/format/PeriodFormatterBuilder.java']" 10
+['JodaTime/src/java/org/joda/time/ReadablePeriod.java'] 10
+['JodaTimeContrib/jsptags/RELEASE-NOTES.txt'] 12
+['JodaTime/src/test/org/joda/time/TestInstant_Basics.java'] 16
+"['JodaTime/src/test/org/joda/time/TestInstant_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java']" 11
+"['JodaTime/src/test/org/joda/time/TestInstant_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateTime_Basics.java']" 11
+"['JodaTime/src/test/org/joda/time/TestInstant_Basics.java', 'JodaTime/src/test/org/joda/time/TestDateTime_Basics.java']" 14
+['JodaTime/src/java/org/joda/time/AbstractPartialInstant.java'] 10
+['JodaTime/src/test/org/joda/time/convert/TestNullConverter.java'] 20
+"['JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 10
+"['JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 11
+"['JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java']" 16
+"['JodaTime/src/test/org/joda/time/convert/TestNullConverter.java', 'JodaTime/src/test/org/joda/time/convert/TestStringConverter.java', 'JodaTime/src/test/org/joda/time/TestDuration_Basics.java']" 10
+['JodaTime/src/java/org/joda/time/tz/ZoneInfoCompiler.java'] 18
+['JodaTime/src/test/org/joda/time/TestDateTimeUtils.java'] 23
+"['JodaTime/src/test/org/joda/time/TestDateTimeUtils.java', 'JodaTime/src/java/org/joda/time/DateTimeUtils.java']" 10
+['src/site/site.xml'] 13
+"['src/site/site.xml', 'src/site/xdoc/index.xml']" 10
+['JodaTime/src/test/org/joda/time/TestAll.java'] 48
+['JodaTime/project.properties'] 19
+['JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java'] 26
+['JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java'] 32
+"['JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormat.java']" 14
+"['JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormat.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 11
+"['JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java', 'JodaTime/src/java/org/joda/time/convert/StringConverter.java']" 10
+"['JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 12
+['JodaTime/src/java/org/joda/time/format/DateTimePrinter.java'] 12
+"['JodaTime/src/java/org/joda/time/format/DateTimePrinter.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormat.java']" 11
+"['JodaTime/src/java/org/joda/time/format/DateTimePrinter.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormat.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 11
+"['JodaTime/src/java/org/joda/time/format/DateTimePrinter.java', 'JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java']" 11

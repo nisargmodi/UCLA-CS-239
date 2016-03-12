@@ -1,0 +1,784 @@
+src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+JodaTime/src/test/org/joda/time/TestDuration_Constructors.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/TestDuration_Constructors.java JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java
+JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableInstantConverter.java
+JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java
+JodaTime/src/java/org/joda/time/chrono/BaseGJChronology.java JodaTime/src/java/org/joda/time/chrono/CopticChronology.java
+JodaTime/src/test/org/joda/time/TestTimeOfDay_Basics.java JodaTime/src/test/org/joda/time/TestYearMonthDay_Basics.java
+JodaTime/src/java/org/joda/time/base/BasePartial.java JodaTime/src/java/org/joda/time/YearMonthDay.java
+JodaTime/src/java/org/joda/time/base/BasePartial.java JodaTime/src/java/org/joda/time/TimeOfDay.java
+JodaTime/build.xml JodaTime/xdocs/index.xml
+JodaTime/build.xml JodaTime/project.xml
+JodaTime/src/test/org/joda/time/TestInstant_Basics.java JodaTime/src/test/org/joda/time/TestDateTime_Basics.java
+JodaTime/src/test/org/joda/time/TestInstant_Basics.java JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java
+JodaTime/src/test/org/joda/time/TestDateTimeUtils.java JodaTime/src/java/org/joda/time/DateTimeUtils.java
+JodaTime/src/java/org/joda/time/chrono/LenientChronology.java JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java
+JodaTimeContrib/jsptags/build.xml JodaTimeContrib/jsptags/project.xml
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java
+JodaTime/src/java/org/joda/time/ReadableDuration.java JodaTime/src/java/org/joda/time/AbstractDuration.java
+src/main/java/org/joda/time/format/DateTimeFormatter.java RELEASE-NOTES.txt
+src/main/java/org/joda/time/format/DateTimeFormatter.java src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java
+JodaTime/project.xml JodaTime/RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java
+JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestInterval_Constructors.java
+JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/Instant.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/Instant.java JodaTime/src/java/org/joda/time/MutableDateTime.java
+JodaTime/src/java/org/joda/time/LocalDate.java JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java
+JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java
+JodaTime/src/java/org/joda/time/chrono/JulianChronology.java JodaTime/src/java/org/joda/time/chrono/CopticChronology.java
+JodaTime/src/java/org/joda/time/chrono/JulianChronology.java JodaTime/src/java/org/joda/time/chrono/GJChronology.java
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/africa
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/chrono/BaseChronology.java JodaTime/src/java/org/joda/time/Chronology.java
+JodaTime/src/test/org/joda/time/TestInterval_Constructors.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java
+JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java
+JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java JodaTime/src/java/org/joda/time/DateTimeField.java
+JodaTime/src/java/org/joda/time/MutableInterval.java JodaTime/src/java/org/joda/time/Interval.java
+JodaTime/src/java/org/joda/time/MutableInterval.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/TestInterval_Constructors.java
+JodaTime/src/java/org/joda/time/TimeOfDay.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/TimeOfDay.java JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java JodaTime/src/java/org/joda/time/format/DateTimeFormat.java
+JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+JodaTime/src/test/org/joda/time/TestLocalDate_Basics.java JodaTime/src/java/org/joda/time/LocalDate.java
+JodaTime/src/test/org/joda/time/convert/TestDateConverter.java JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java
+JodaTime/src/java/org/joda/time/MutablePeriod.java JodaTime/src/java/org/joda/time/Period.java
+JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java
+JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java JodaTime/src/java/org/joda/time/DateTimeField.java
+JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java JodaTime/src/test/org/joda/time/TestDateTime_Basics.java
+src/main/java/org/joda/time/DateTimeUtils.java RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/YearMonthDay.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/MutableDateTime.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/TimeOfDay.java
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/northamerica pom.xml
+src/main/java/org/joda/time/tz/src/northamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia
+JodaTime/xdocs/installation.xml JodaTime/xdocs/index.xml
+JodaTime/xdocs/index.xml JodaTime/project.xml
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Updates.java JodaTime/src/test/org/joda/time/TestPeriod_Basics.java
+src/site/xdoc/index.xml pom.xml
+src/test/java/org/joda/time/format/TestDateTimeFormatterBuilder.java src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java
+src/site/site.xml pom.xml
+src/site/site.xml src/site/xdoc/index.xml
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/TimeOfDay.java
+JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/TestMutableInterval_Basics.java JodaTime/src/test/org/joda/time/TestInterval_Basics.java
+JodaTime/src/java/org/joda/time/chrono/GJChronology.java JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java
+JodaTime/src/java/org/joda/time/chrono/GJChronology.java JodaTime/src/java/org/joda/time/chrono/CopticChronology.java
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/convert/CalendarConverter.java JodaTime/src/java/org/joda/time/convert/AbstractConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java
+JodaTime/src/java/org/joda/time/AbstractInterval.java JodaTime/src/java/org/joda/time/AbstractDuration.java
+JodaTime/src/java/org/joda/time/AbstractInterval.java JodaTime/src/java/org/joda/time/Interval.java
+JodaTime/src/java/org/joda/time/AbstractInterval.java JodaTime/src/java/org/joda/time/MutableInterval.java
+JodaTime/src/java/org/joda/time/LocalDateTime.java JodaTime/src/java/org/joda/time/LocalDate.java
+src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/chrono/ISOChronology.java JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java
+JodaTime/src/java/org/joda/time/chrono/ISOChronology.java JodaTime/src/java/org/joda/time/chrono/GJChronology.java
+JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/convert/StringConverter.java JodaTime/src/java/org/joda/time/MutableDateTime.java
+src/main/java/org/joda/time/tz/ZoneInfoCompiler.java RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/Chronology.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/Chronology.java JodaTime/src/java/org/joda/time/MutableDateTime.java
+JodaTime/src/test/org/joda/time/TestDateMidnight_Properties.java JodaTime/src/test/org/joda/time/TestDateTime_Properties.java
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/DateTime.java RELEASE-NOTES.txt
+src/site/xdoc/installation.xml README.md
+src/site/xdoc/installation.xml pom.xml
+src/site/xdoc/installation.xml src/site/xdoc/index.xml
+JodaTime/src/test/org/joda/time/TestDateTimeZone.java JodaTime/src/java/org/joda/time/DateTimeZone.java
+JodaTime/src/java/org/joda/time/convert/NullConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/convert/NullConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java JodaTime/src/java/org/joda/time/chrono/CopticChronology.java
+JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java JodaTime/src/java/org/joda/time/chrono/GJChronology.java
+JodaTime/src/java/org/joda/time/ReadableInstant.java JodaTime/src/java/org/joda/time/Instant.java
+JodaTime/src/java/org/joda/time/ReadableInstant.java JodaTime/src/java/org/joda/time/MutableDateTime.java
+JodaTime/src/java/org/joda/time/format/DateTimeFormatter.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+pom.xml RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/DateTimeZone.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+JodaTime/src/java/org/joda/time/DateTimeZone.java JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/chrono/GJMonthOfYearDateTimeField.java JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java
+JodaTime/src/java/org/joda/time/base/AbstractInterval.java JodaTime/src/java/org/joda/time/Interval.java
+JodaTime/src/java/org/joda/time/base/AbstractInterval.java JodaTime/src/test/org/joda/time/TestInterval_Basics.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Basics.java JodaTime/src/test/org/joda/time/TestPeriod_Basics.java
+src/main/java/org/joda/time/format/DateTimeFormat.java RELEASE-NOTES.txt
+src/main/java/org/joda/time/LocalDate.java RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/convert/TestReadableInstantConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java
+src/conf/MANIFEST.MF src/site/xdoc/installation.xml
+src/conf/MANIFEST.MF README.md
+src/conf/MANIFEST.MF pom.xml
+JodaTime/src/java/org/joda/time/Duration.java JodaTime/src/java/org/joda/time/AbstractDuration.java
+JodaTime/src/java/org/joda/time/Duration.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/java/org/joda/time/MutableDateTime.java JodaTime/src/java/org/joda/time/DateTime.java
+src/main/java/org/joda/time/LocalDateTime.java src/main/java/org/joda/time/LocalDate.java
+JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java JodaTime/src/java/org/joda/time/Period.java
+JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/java/org/joda/time/chrono/GJEraDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJMonthOfYearDateTimeField.java
+JodaTime/src/java/org/joda/time/format/DateTimeFormat.java JodaTime/src/java/org/joda/time/DateTimeZone.java
+JodaTime/src/java/org/joda/time/format/DateTimeFormat.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+JodaTime/src/java/org/joda/time/chrono/LimitChronology.java JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java
+JodaTime/src/java/org/joda/time/chrono/LimitChronology.java JodaTime/src/java/org/joda/time/MutableDateTime.java
+JodaTime/src/java/org/joda/time/chrono/LimitChronology.java JodaTime/src/java/org/joda/time/chrono/GJChronology.java
+JodaTime/src/java/org/joda/time/chrono/LimitChronology.java JodaTime/src/java/org/joda/time/format/DateTimeFormat.java
+JodaTime/src/java/org/joda/time/chrono/LimitChronology.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java JodaTime/RELEASE-NOTES.txt
+src/test/java/org/joda/time/tz/TestCompiler.java src/main/java/org/joda/time/tz/ZoneInfoCompiler.java
+JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java
+JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java
+JodaTime/src/java/org/joda/time/ReadableInterval.java JodaTime/src/java/org/joda/time/Interval.java
+JodaTime/src/test/org/joda/time/TestDateTime_Basics.java JodaTime/src/java/org/joda/time/DateTime.java
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/convert/ConverterManager.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java JodaTime/src/java/org/joda/time/MutableDateTime.java
+README.md pom.xml
+JodaTime/src/java/org/joda/time/base/AbstractPartial.java JodaTime/src/java/org/joda/time/base/BasePartial.java
+JodaTime/src/java/org/joda/time/base/AbstractPartial.java JodaTime/src/java/org/joda/time/YearMonthDay.java
+JodaTime/src/java/org/joda/time/base/AbstractPartial.java JodaTime/src/java/org/joda/time/TimeOfDay.java
+src/main/java/org/joda/time/tz/src/Readme.txt pom.xml
+src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/africa
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/test/org/joda/time/TestMutableDateTime_Basics.java JodaTime/src/test/org/joda/time/TestDateTime_Basics.java
+JodaTime/src/test/org/joda/time/TestMutableDateTime_Basics.java JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java
+JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java
+JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java
+JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java
+JodaTime/src/java/org/joda/time/chrono/GregorianChronology.java JodaTime/src/java/org/joda/time/chrono/CopticChronology.java
+JodaTime/src/java/org/joda/time/chrono/GregorianChronology.java JodaTime/src/java/org/joda/time/chrono/JulianChronology.java
+JodaTime/src/java/org/joda/time/LocalTime.java JodaTime/src/java/org/joda/time/LocalDate.java
+JodaTime/src/java/org/joda/time/LocalTime.java JodaTime/src/java/org/joda/time/LocalDateTime.java
+JodaTime/src/java/org/joda/time/LocalTime.java JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/format/DateTimeParserBucket.java JodaTime/src/java/org/joda/time/format/DateTimeFormatter.java
+JodaTime/src/java/org/joda/time/format/DateTimeParserBucket.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java
+JodaTime/src/java/org/joda/time/convert/AbstractConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/convert/AbstractConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java
+JodaTime/src/test/org/joda/time/TestInterval_Basics.java JodaTime/src/java/org/joda/time/Interval.java
+JodaTime/xdocs/navigation.xml JodaTime/xdocs/index.xml
+JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java
+JodaTime/src/java/org/joda/time/base/BasePeriod.java JodaTime/src/java/org/joda/time/Period.java
+src/test/java/org/joda/time/format/TestPeriodFormatterBuilder.java src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
+JodaTime/src/java/org/joda/time/ReadWritableInstant.java JodaTime/src/java/org/joda/time/MutableDateTime.java
+JodaTime/src/test/org/joda/time/TestMutableInterval_Constructors.java JodaTime/src/test/org/joda/time/TestInterval_Constructors.java
+JodaTime/src/java/org/joda/time/DateTimeField.java JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java
+JodaTime/src/test/org/joda/time/format/TestPeriodFormatterBuilder.java JodaTime/src/java/org/joda/time/format/PeriodFormatterBuilder.java
+JodaTime/src/java/org/joda/time/tz/src/Readme.txt JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/convert/LongConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/RELEASE-NOTES.txt
+src/main/java/org/joda/time/DateTimeZone.java RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/TestPeriod_Basics.java JodaTime/src/java/org/joda/time/Period.java
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/antarctica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/format/DateTimePrinter.java JodaTime/src/java/org/joda/time/format/DateTimeFormat.java
+JodaTime/src/java/org/joda/time/format/DateTimePrinter.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/TestDuration_Constructors.java JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestCalendarConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableInstantConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java
+JodaTime/src/java/org/joda/time/base/BasePartial.java JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/TimeOfDay.java
+JodaTime/src/test/org/joda/time/TestInstant_Basics.java JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java JodaTime/src/test/org/joda/time/TestDateTime_Basics.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestInterval_Constructors.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/Instant.java JodaTime/src/java/org/joda/time/MutableDateTime.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java
+JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/chrono/JulianChronology.java JodaTime/src/java/org/joda/time/chrono/GJChronology.java JodaTime/src/java/org/joda/time/chrono/CopticChronology.java
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java
+JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java JodaTime/src/java/org/joda/time/DateTimeField.java
+JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java JodaTime/src/java/org/joda/time/DateTimeField.java JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/TestInterval_Constructors.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java JodaTime/src/java/org/joda/time/format/DateTimeFormat.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java JodaTime/src/java/org/joda/time/DateTimeField.java JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/TimeOfDay.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/MutableDateTime.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/TimeOfDay.java JodaTime/src/java/org/joda/time/DateTime.java
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica pom.xml RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/TimeOfDay.java JodaTime/src/java/org/joda/time/DateTime.java
+JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/TimeOfDay.java JodaTime/RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/java/org/joda/time/AbstractInterval.java JodaTime/src/java/org/joda/time/MutableInterval.java JodaTime/src/java/org/joda/time/Interval.java
+src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/chrono/ISOChronology.java JodaTime/src/java/org/joda/time/chrono/BuddhistChronology.java JodaTime/src/java/org/joda/time/chrono/GJChronology.java
+JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt JodaTime/RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/site/xdoc/installation.xml README.md pom.xml
+JodaTime/src/java/org/joda/time/convert/NullConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/Readme.txt JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+src/conf/MANIFEST.MF src/site/xdoc/installation.xml README.md
+src/conf/MANIFEST.MF src/site/xdoc/installation.xml pom.xml
+src/conf/MANIFEST.MF README.md pom.xml
+JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/java/org/joda/time/chrono/LimitChronology.java JodaTime/src/java/org/joda/time/chrono/GJChronology.java JodaTime/src/java/org/joda/time/chrono/ZonedChronology.java
+JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/base/AbstractPartial.java JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/TimeOfDay.java
+src/main/java/org/joda/time/tz/src/Readme.txt pom.xml RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/test/org/joda/time/TestMutableDateTime_Basics.java JodaTime/src/test/org/joda/time/TestDateMidnight_Basics.java JodaTime/src/test/org/joda/time/TestDateTime_Basics.java
+JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java
+JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java
+JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java
+JodaTime/src/java/org/joda/time/chrono/GregorianChronology.java JodaTime/src/java/org/joda/time/chrono/JulianChronology.java JodaTime/src/java/org/joda/time/chrono/CopticChronology.java
+JodaTime/src/java/org/joda/time/LocalTime.java JodaTime/src/java/org/joda/time/LocalDateTime.java JodaTime/src/java/org/joda/time/LocalDate.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/java/org/joda/time/convert/AbstractConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/Readme.txt JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt JodaTime/RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/format/DateTimePrinter.java JodaTime/src/java/org/joda/time/format/DateTimeFormat.java JodaTime/src/java/org/joda/time/format/DateTimeFormatterBuilder.java
+src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/TestMutablePeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestPeriod_Constructors.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/convert/ReadableDurationConverter.java JodaTime/src/java/org/joda/time/convert/ReadableIntervalConverter.java JodaTime/src/java/org/joda/time/convert/LongConverter.java JodaTime/src/java/org/joda/time/convert/StringConverter.java
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/field/DelegatedDateTimeField.java JodaTime/src/java/org/joda/time/field/UnsupportedDateTimeField.java JodaTime/src/java/org/joda/time/DateTimeField.java JodaTime/src/java/org/joda/time/field/BaseDateTimeField.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/java/org/joda/time/DateMidnight.java JodaTime/src/java/org/joda/time/YearMonthDay.java JodaTime/src/java/org/joda/time/TimeOfDay.java JodaTime/src/java/org/joda/time/DateTime.java
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+src/conf/MANIFEST.MF src/site/xdoc/installation.xml README.md pom.xml
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/chrono/GJDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/CopticDayOfMonthDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJDayOfYearDateTimeField.java JodaTime/src/java/org/joda/time/chrono/GJWeekOfWeekyearDateTimeField.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestConverterManager.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt JodaTime/RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/test/org/joda/time/convert/TestReadableDurationConverter.java JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java
+src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/antarctica JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica
+JodaTime/src/test/org/joda/time/convert/TestLongConverter.java JodaTime/src/test/org/joda/time/convert/TestReadableIntervalConverter.java JodaTime/src/test/org/joda/time/convert/TestNullConverter.java JodaTime/src/test/org/joda/time/convert/TestStringConverter.java JodaTime/src/test/org/joda/time/TestDuration_Basics.java
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/antarctica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/backward JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica
+src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+JodaTime/src/java/org/joda/time/tz/src/australasia JodaTime/src/java/org/joda/time/tz/src/africa JodaTime/src/java/org/joda/time/tz/src/europe JodaTime/src/java/org/joda/time/tz/src/northamerica JodaTime/src/java/org/joda/time/tz/src/southamerica JodaTime/src/java/org/joda/time/tz/src/asia JodaTime/src/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt
+src/main/java/org/joda/time/tz/src/africa src/main/java/org/joda/time/tz/src/australasia src/main/java/org/joda/time/tz/src/northamerica src/main/java/org/joda/time/tz/src/southamerica src/main/java/org/joda/time/tz/src/europe src/main/java/org/joda/time/tz/src/asia src/main/java/org/joda/time/tz/src/Readme.txt RELEASE-NOTES.txt

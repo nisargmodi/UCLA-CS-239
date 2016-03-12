@@ -1,0 +1,824 @@
+['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java'] 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/EmptyIfStatementTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+['core/src/main/java/com/google/errorprone/bugpatterns/AbstractSuppressWarningsMatcher.java'] 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractSuppressWarningsMatcher.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java'] 18
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+['core/src/test/java/com/google/errorprone/bugpatterns/JUnit4TestNotRunTest.java'] 24
+"['core/src/test/java/com/google/errorprone/bugpatterns/JUnit4TestNotRunTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 15
+['core/src/test/java/com/google/errorprone/bugpatterns/WrongParameterPackageTest.java'] 14
+['core/src/main/java/com/google/errorprone/bugpatterns/CheckReturnValue.java'] 30
+"['core/src/main/java/com/google/errorprone/bugpatterns/CheckReturnValue.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CheckReturnValue.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CheckReturnValue.java', 'core/src/main/java/com/google/errorprone/util/ASTHelpers.java']" 16
+['core/src/main/java/com/google/errorprone/bugpatterns/InvalidNumericEquality.java'] 15
+['core/src/main/java/com/google/errorprone/bugpatterns/WrongParameterPackage.java'] 20
+"['core/src/main/java/com/google/errorprone/bugpatterns/WrongParameterPackage.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+['core/src/main/java/com/google/errorprone/ErrorProneAnalyzer.java'] 45
+['src/main/java/com/google/errorprone/ErrorProneScanner.java'] 21
+['annotation/pom.xml'] 128
+"['annotation/pom.xml', 'docgen/pom.xml']" 126
+"['annotation/pom.xml', 'docgen/pom.xml', 'pom.xml']" 125
+"['annotation/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 123
+"['annotation/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 19
+"['annotation/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml']" 19
+"['annotation/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml', 'core/pom.xml']" 19
+"['annotation/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 19
+"['annotation/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 124
+"['annotation/pom.xml', 'pom.xml']" 125
+"['annotation/pom.xml', 'pom.xml', 'core/pom.xml']" 123
+"['annotation/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 19
+"['annotation/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml']" 19
+"['annotation/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml', 'core/pom.xml']" 19
+"['annotation/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 19
+"['annotation/pom.xml', 'core/pom.xml']" 124
+['core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnAbstractMethodTest.java'] 13
+['core/src/test/java/com/google/errorprone/bugpatterns/ArrayToStringCompoundAssignmentTest.java'] 13
+['core/src/test/java/com/google/errorprone/EndPosTest.java'] 16
+['core/src/main/java/com/google/errorprone/bugpatterns/JUnit3TestNotRun.java'] 17
+['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToString.java'] 23
+['core/src/test/resources/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitivePositiveCases.java'] 14
+['core/src/main/java/com/google/errorprone/bugpatterns/StringEquality.java'] 19
+['core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java'] 28
+"['core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java', 'core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/StringEqualityTest.java'] 15
+['core/src/main/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByBinder.java'] 21
+"['core/src/main/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByBinder.java', 'core/src/test/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByBinderTest.java']" 15
+['core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java'] 36
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 18
+['core/src/main/java/com/google/errorprone/ErrorProneCompiler.java'] 59
+"['core/src/main/java/com/google/errorprone/ErrorProneCompiler.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 13
+"['core/src/main/java/com/google/errorprone/ErrorProneCompiler.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 16
+"['core/src/main/java/com/google/errorprone/ErrorProneCompiler.java', 'core/pom.xml']" 13
+['core/src/test/java/com/google/errorprone/fixes/AppliedFixTest.java'] 15
+['core/src/test/java/com/google/errorprone/bugpatterns/SelfAssignmentTest.java'] 13
+['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases1.java'] 22
+"['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases1.java', 'jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases2.java']" 14
+"['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases1.java', 'jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases2.java', 'jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransfer.java']" 14
+"['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases1.java', 'jdk8/src/test/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTest.java']" 16
+"['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases1.java', 'jdk8/src/test/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTest.java', 'jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases2.java']" 14
+"['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases1.java', 'jdk8/src/test/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTest.java', 'jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases2.java', 'jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransfer.java']" 14
+"['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases1.java', 'jdk8/src/test/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTest.java', 'jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransfer.java']" 16
+"['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases1.java', 'jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransfer.java']" 20
+['jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationStore.java'] 14
+['core/src/main/java/com/google/errorprone/bugpatterns/Finally.java'] 16
+['core/src/test/java/com/google/errorprone/ErrorFindingCompilerIntegrationTest.java'] 18
+['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java'] 26
+"['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 17
+"['core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 14
+['core/src/test/resources/com/google/errorprone/bugpatterns/ReturnValueIgnoredPositiveCase1.java'] 14
+"['core/src/test/resources/com/google/errorprone/bugpatterns/ReturnValueIgnoredPositiveCase1.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java']" 14
+['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java'] 20
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 18
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+['core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java'] 32
+"['core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 14
+['jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransfer.java'] 52
+['core/src/test/java/com/google/errorprone/bugpatterns/DepAnnTest.java'] 13
+['core/pom.xml'] 205
+['docgen/src/main/java/com/google/errorprone/BugPatternFileGenerator.java'] 14
+['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java'] 17
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java']" 15
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java']" 15
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java']" 15
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 14
+['core/src/main/java/com/google/errorprone/bugpatterns/InjectInvalidTargetingOnScopingAnnotation.java'] 14
+['core/src/main/java/com/google/errorprone/bugpatterns/IncompatibleEquals.java'] 13
+['core/src/test/java/com/google/errorprone/ErrorReportingJavaCompilerIntegrationTest.java'] 19
+['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java'] 28
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 21
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases2.java'] 36
+"['jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases2.java', 'jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransfer.java']" 36
+['core/src/main/java/com/google/errorprone/SuppressionHelper.java'] 16
+['.gitignore'] 21
+['core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java'] 59
+"['core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 18
+['core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java'] 23
+"['core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitiveTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitiveTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CheckReturnValueTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CheckReturnValueTest.java']" 14
+['core/src/main/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByExpression.java'] 13
+['core/src/main/java/com/google/errorprone/bugpatterns/InjectScopeOrQualifierAnnotationRetention.java'] 13
+['src/main/java/com/google/errorprone/ASTVisitor.java'] 16
+['core/src/test/java/com/google/errorprone/util/ASTHelpersTest.java'] 25
+"['core/src/test/java/com/google/errorprone/util/ASTHelpersTest.java', 'core/src/main/java/com/google/errorprone/util/ASTHelpers.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/JUnit3TestNotRunTest.java'] 14
+['core/src/test/java/com/google/errorprone/ErrorProneTestCompiler.java'] 18
+"['core/src/test/java/com/google/errorprone/ErrorProneTestCompiler.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 14
+['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java'] 15
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneInjectableConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java'] 20
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ArrayToString.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/EmptyIfStatement.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+['core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java'] 32
+"['core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 18
+"['core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java']" 13
+['core/src/main/java/com/google/errorprone/Scanner.java'] 52
+"['core/src/main/java/com/google/errorprone/Scanner.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java']" 22
+"['core/src/main/java/com/google/errorprone/Scanner.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 18
+"['core/src/main/java/com/google/errorprone/Scanner.java', 'annotation/src/main/java/com/google/errorprone/BugPattern.java']" 14
+"['core/src/main/java/com/google/errorprone/Scanner.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 27
+"['core/src/main/java/com/google/errorprone/Scanner.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 14
+"['core/src/main/java/com/google/errorprone/Scanner.java', 'core/pom.xml']" 15
+['core/src/test/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByBinderTest.java'] 22
+['pom.xml'] 184
+"['pom.xml', 'core/pom.xml']" 147
+['core/src/test/java/com/google/errorprone/matchers/DescendantOfTransitiveTest.java'] 13
+"['core/src/test/java/com/google/errorprone/matchers/DescendantOfTransitiveTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java'] 18
+"['core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java']" 18
+"['core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 14
+['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java'] 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenationTest.java'] 13
+['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java'] 20
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNull.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+['core/src/test/java/com/google/errorprone/bugpatterns/ArrayToStringTest.java'] 15
+['core/src/main/java/com/google/errorprone/bugpatterns/MisusedFormattingLogger.java'] 29
+"['core/src/main/java/com/google/errorprone/bugpatterns/MisusedFormattingLogger.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+['core/src/main/java/com/google/errorprone/ErrorReportingJavaCompiler.java'] 44
+"['core/src/main/java/com/google/errorprone/ErrorReportingJavaCompiler.java', 'core/src/main/java/com/google/errorprone/ErrorProneCompiler.java']" 21
+"['core/src/main/java/com/google/errorprone/ErrorReportingJavaCompiler.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 13
+['core/src/main/java/com/google/errorprone/ErrorProneJavaCompiler.java'] 16
+['jdkcompat/src/main/java/com/google/errorprone/JDKCompatibleShim.java'] 21
+"['jdkcompat/src/main/java/com/google/errorprone/JDKCompatibleShim.java', 'core/src/main/java/com/google/errorprone/JDKCompatible.java']" 13
+['core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java'] 24
+"['core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffix.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+['ant/pom.xml'] 117
+"['ant/pom.xml', 'annotation/pom.xml']" 110
+"['ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml']" 110
+"['ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml']" 110
+"['ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 110
+"['ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 15
+"['ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml']" 15
+"['ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml', 'core/pom.xml']" 15
+"['ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 15
+"['ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 110
+"['ant/pom.xml', 'annotation/pom.xml', 'pom.xml']" 110
+"['ant/pom.xml', 'annotation/pom.xml', 'pom.xml', 'core/pom.xml']" 110
+"['ant/pom.xml', 'annotation/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 15
+"['ant/pom.xml', 'annotation/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml']" 15
+"['ant/pom.xml', 'annotation/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml', 'core/pom.xml']" 15
+"['ant/pom.xml', 'annotation/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 15
+"['ant/pom.xml', 'annotation/pom.xml', 'core/pom.xml']" 110
+"['ant/pom.xml', 'docgen/pom.xml']" 111
+"['ant/pom.xml', 'docgen/pom.xml', 'pom.xml']" 111
+"['ant/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 111
+"['ant/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 15
+"['ant/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml']" 15
+"['ant/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml', 'core/pom.xml']" 15
+"['ant/pom.xml', 'docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 15
+"['ant/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 111
+"['ant/pom.xml', 'pom.xml']" 114
+"['ant/pom.xml', 'pom.xml', 'core/pom.xml']" 114
+"['ant/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 15
+"['ant/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml']" 15
+"['ant/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml', 'core/pom.xml']" 15
+"['ant/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 15
+"['ant/pom.xml', 'core/pom.xml']" 117
+['core/src/main/java/com/google/errorprone/bugpatterns/InjectMoreThanOneScopeAnnotationOnClass.java'] 13
+['src/test/java/com/google/errorprone/PreconditionsCheckNotNullTest.java'] 14
+['core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java'] 18
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalFieldTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 14
+['core/src/main/java/com/google/errorprone/matchers/StaticMethod.java'] 15
+['core/src/main/java/com/google/errorprone/bugpatterns/WaitNotInLoop.java'] 20
+['core/src/test/java/com/google/errorprone/bugpatterns/NonRuntimeAnnotationTest.java'] 13
+['core/src/main/java/com/google/errorprone/matchers/Description.java'] 31
+"['core/src/main/java/com/google/errorprone/matchers/Description.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java']" 17
+"['core/src/main/java/com/google/errorprone/matchers/Description.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 17
+"['core/src/main/java/com/google/errorprone/matchers/Description.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java']" 15
+['examples/maven/pom.xml'] 22
+['maven/pom.xml'] 50
+"['maven/pom.xml', 'annotation/pom.xml']" 47
+"['maven/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml']" 47
+"['maven/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml']" 47
+"['maven/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'annotation/pom.xml', 'pom.xml']" 47
+"['maven/pom.xml', 'annotation/pom.xml', 'pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'annotation/pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'docgen/pom.xml']" 47
+"['maven/pom.xml', 'docgen/pom.xml', 'pom.xml']" 47
+"['maven/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'pom.xml']" 48
+"['maven/pom.xml', 'pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'annotation/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'docgen/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'docgen/pom.xml', 'pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'ant/pom.xml', 'core/pom.xml']" 47
+"['maven/pom.xml', 'core/pom.xml']" 47
+['core/src/main/java/com/google/errorprone/bugpatterns/ModifyingCollectionWithItself.java'] 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/ModifyingCollectionWithItself.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ModifyingCollectionWithItself.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ModifyingCollectionWithItself.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+['core/src/main/java/com/google/errorprone/WrappedTreeMap.java'] 25
+['core/src/main/java/com/google/errorprone/matchers/Matchers.java'] 151
+"['core/src/main/java/com/google/errorprone/matchers/Matchers.java', 'pom.xml']" 16
+"['core/src/main/java/com/google/errorprone/matchers/Matchers.java', 'pom.xml', 'core/pom.xml']" 16
+"['core/src/main/java/com/google/errorprone/matchers/Matchers.java', 'core/pom.xml']" 27
+['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringCompoundAssignment.java'] 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringCompoundAssignment.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ArrayToStringConcatenation.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/ProtoFieldNullComparisonTest.java'] 13
+['core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnSameConstructorTest.java'] 15
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnSameConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnSameConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnSameConstructorTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectOverlappingQualifierAndScopeAnnotationTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java'] 19
+"['core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+['core/src/main/java/com/google/errorprone/suppliers/Suppliers.java'] 21
+"['core/src/main/java/com/google/errorprone/suppliers/Suppliers.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 16
+['core/src/main/java/com/google/errorprone/bugpatterns/EmptyStatement.java'] 13
+['docgen/src/main/java/com/google/errorprone/DocGen.java'] 40
+"['docgen/src/main/java/com/google/errorprone/DocGen.java', 'docgen/pom.xml']" 13
+"['docgen/src/main/java/com/google/errorprone/DocGen.java', 'annotation/src/main/java/com/google/errorprone/BugPattern.java']" 17
+['core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java'] 16
+"['core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+['core/src/test/java/com/google/errorprone/matchers/StaticMethodTest.java'] 18
+['core/src/main/java/com/google/errorprone/util/ASTHelpers.java'] 80
+"['core/src/main/java/com/google/errorprone/util/ASTHelpers.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 28
+"['core/src/main/java/com/google/errorprone/util/ASTHelpers.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 13
+"['core/src/main/java/com/google/errorprone/util/ASTHelpers.java', 'core/pom.xml']" 14
+['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java'] 24
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 15
+['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java'] 29
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 17
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 19
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 14
+['core/src/test/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScopingTest.java'] 14
+['core/src/test/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByTest.java'] 18
+['core/src/test/java/com/google/errorprone/bugpatterns/ComparisonOutOfRangeTest.java'] 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/ComparisonOutOfRangeTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 14
+['annotations/pom.xml'] 20
+"['annotations/pom.xml', 'annotation/pom.xml']" 19
+"['annotations/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml']" 19
+"['annotations/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml']" 19
+"['annotations/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'annotation/pom.xml', 'pom.xml']" 19
+"['annotations/pom.xml', 'annotation/pom.xml', 'pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'annotation/pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'docgen/pom.xml']" 19
+"['annotations/pom.xml', 'docgen/pom.xml', 'pom.xml']" 19
+"['annotations/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'pom.xml']" 20
+"['annotations/pom.xml', 'pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'annotation/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'annotation/pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'docgen/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'docgen/pom.xml', 'pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'docgen/pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'ant/pom.xml', 'core/pom.xml']" 19
+"['annotations/pom.xml', 'core/pom.xml']" 19
+['core/src/main/java/com/google/errorprone/bugpatterns/ChainingConstructorIgnoresParameter.java'] 13
+['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java'] 36
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 20
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/util/ASTHelpers.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/util/ASTHelpers.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/fixes/SuggestedFix.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 17
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+['core/src/main/resources/com/google/errorprone/errors.properties'] 16
+['core/src/main/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructors.java'] 23
+"['core/src/main/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructors.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 13
+['core/src/test/java/com/google/errorprone/DiagnosticTestHelper.java'] 59
+"['core/src/test/java/com/google/errorprone/DiagnosticTestHelper.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 21
+"['core/src/test/java/com/google/errorprone/DiagnosticTestHelper.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 17
+"['core/src/test/java/com/google/errorprone/DiagnosticTestHelper.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 16
+['core/src/main/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByChecker.java'] 16
+['core/src/test/java/com/google/errorprone/matchers/AnnotationTest.java'] 27
+"['core/src/test/java/com/google/errorprone/matchers/AnnotationTest.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 17
+['core/src/test/resources/com/google/errorprone/bugpatterns/BadShiftAmountPositiveCases.java'] 13
+['core/src/test/resources/com/google/errorprone/bugpatterns/ArrayToStringPositiveCases.java'] 13
+['core/src/main/java/com/google/errorprone/fixes/AppliedFix.java'] 19
+"['core/src/main/java/com/google/errorprone/fixes/AppliedFix.java', 'core/src/main/java/com/google/errorprone/fixes/SuggestedFix.java']" 15
+['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java'] 15
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/DeadExceptionTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+['core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java'] 39
+"['core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 21
+"['core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 14
+['src/main/java/com/google/errorprone/ErrorProneProcessor.java'] 13
+['core/src/test/java/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsTest.java'] 21
+['core/src/test/resources/com/google/errorprone/bugpatterns/SelfAssignmentPositiveCases1.java'] 16
+"['core/src/test/resources/com/google/errorprone/bugpatterns/SelfAssignmentPositiveCases1.java', 'core/src/test/resources/com/google/errorprone/bugpatterns/SelfAssignmentPositiveCases2.java']" 14
+['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java'] 24
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 20
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+['core/src/test/java/com/google/errorprone/CompilationTestHelper.java'] 80
+"['core/src/test/java/com/google/errorprone/CompilationTestHelper.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 21
+"['core/src/test/java/com/google/errorprone/CompilationTestHelper.java', 'core/pom.xml']" 14
+['README.md'] 17
+['core/src/test/java/com/google/errorprone/ErrorProneJavaCompilerTest.java'] 29
+"['core/src/test/java/com/google/errorprone/ErrorProneJavaCompilerTest.java', 'core/src/test/java/com/google/errorprone/ErrorProneCompilerIntegrationTest.java']" 15
+['core/src/test/java/com/google/errorprone/suppress/UnsuppressibleTest.java'] 14
+"['core/src/test/java/com/google/errorprone/suppress/UnsuppressibleTest.java', 'core/src/test/java/com/google/errorprone/suppress/CustomSuppressionTest.java']" 13
+['core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignmentChecker.java'] 13
+['core/src/test/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByValidatorTest.java'] 15
+['core/src/main/java/com/google/errorprone/bugpatterns/InvalidStringEquality.java'] 20
+['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java'] 23
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CollectionIncompatibleType.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsExpensiveString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 14
+['annotation/src/main/java/com/google/errorprone/BugPattern.java'] 58
+"['annotation/src/main/java/com/google/errorprone/BugPattern.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java']" 13
+"['annotation/src/main/java/com/google/errorprone/BugPattern.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 14
+"['annotation/src/main/java/com/google/errorprone/BugPattern.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 13
+['core/src/test/java/com/google/errorprone/matchers/MethodHasParametersTest.java'] 14
+"['core/src/test/java/com/google/errorprone/matchers/MethodHasParametersTest.java', 'core/src/test/java/com/google/errorprone/matchers/ConstructorOfClassTest.java']" 13
+"['core/src/test/java/com/google/errorprone/matchers/MethodHasParametersTest.java', 'core/src/test/java/com/google/errorprone/matchers/ConstructorOfClassTest.java', 'core/src/test/java/com/google/errorprone/matchers/AnnotationTest.java']" 13
+"['core/src/test/java/com/google/errorprone/matchers/MethodHasParametersTest.java', 'core/src/test/java/com/google/errorprone/matchers/AnnotationTest.java']" 13
+['core/src/main/java/com/google/errorprone/bugpatterns/threadsafety/GuardedBySymbolResolver.java'] 16
+['core/src/main/java/com/google/errorprone/bugpatterns/FallThroughSuppression.java'] 18
+"['core/src/main/java/com/google/errorprone/bugpatterns/FallThroughSuppression.java', 'core/src/main/java/com/google/errorprone/bugpatterns/OrderingFrom.java']" 13
+['core/src/main/java/com/google/errorprone/JDKCompatible.java'] 27
+['core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java'] 35
+"['core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 17
+"['core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 18
+"['core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 17
+"['core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 17
+"['core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/InjectScopeAnnotationOnInterfaceOrAbstractClassTest.java'] 14
+['core/src/main/java/com/google/errorprone/bugpatterns/InjectScopeAnnotationOnInterfaceOrAbstractClass.java'] 13
+['core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java'] 15
+"['core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/CovariantEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CollectionIncompatibleTypeTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ArrayEqualsTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/ReturnValueIgnoredTest.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/SelfEqualsTest.java'] 20
+"['core/src/test/java/com/google/errorprone/bugpatterns/SelfEqualsTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffixTest.java'] 22
+"['core/src/test/java/com/google/errorprone/bugpatterns/LongLiteralLowerCaseSuffixTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 13
+['jdk7/src/main/java/com/google/errorprone/JDK7Shim.java'] 13
+"['jdk7/src/main/java/com/google/errorprone/JDK7Shim.java', 'jdk8/src/main/java/com/google/errorprone/JDK8Shim.java']" 13
+"['jdk7/src/main/java/com/google/errorprone/JDK7Shim.java', 'jdk8/src/main/java/com/google/errorprone/JDK8Shim.java', 'core/src/main/java/com/google/errorprone/JDKCompatible.java']" 13
+"['jdk7/src/main/java/com/google/errorprone/JDK7Shim.java', 'core/src/main/java/com/google/errorprone/JDKCompatible.java']" 13
+['src/main/java/com/google/errorprone/VisitorState.java'] 16
+['core/src/test/java/com/google/errorprone/ErrorProneCompilerIntegrationTest.java'] 49
+"['core/src/test/java/com/google/errorprone/ErrorProneCompilerIntegrationTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 15
+['core/src/test/java/com/google/errorprone/bugpatterns/CheckReturnValueTest.java'] 25
+"['core/src/test/java/com/google/errorprone/bugpatterns/CheckReturnValueTest.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CheckReturnValue.java']" 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/CheckReturnValueTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 13
+['core/src/main/java/com/google/errorprone/ErrorProneScanner.java'] 139
+"['core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 35
+"['core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java', 'core/pom.xml']" 16
+"['core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml']" 21
+"['core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml', 'core/pom.xml']" 21
+"['core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 33
+['core/src/test/java/com/google/errorprone/suppress/CustomSuppressionTest.java'] 18
+['core/src/main/java/com/google/errorprone/bugpatterns/threadsafety/HeldLockAnalyzer.java'] 30
+['core/src/test/resources/com/google/errorprone/bugpatterns/GuiceInjectOnFinalFieldPositiveCases.java'] 14
+['core/src/test/java/com/google/errorprone/bugpatterns/SuppressWarningsDeprecatedTest.java'] 13
+['core/src/test/java/com/google/errorprone/matchers/DescriptionTest.java'] 15
+"['core/src/test/java/com/google/errorprone/matchers/DescriptionTest.java', 'core/src/main/java/com/google/errorprone/matchers/Description.java']" 14
+['src/main/java/com/google/errorprone/matchers/Matchers.java'] 16
+['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java'] 23
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ReturnValueIgnored.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/CovariantEquals.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/DeadException.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BadShiftAmount.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/JUnit4TestNotRun.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitive.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/GuiceAssistedInjectScoping.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/AbstractReturnValueIgnored.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+['core/src/test/resources/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsPositiveCases.java'] 14
+"['core/src/test/resources/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsPositiveCases.java', 'core/src/test/resources/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsNegativeCases.java']" 13
+['core/src/test/resources/com/google/errorprone/bugpatterns/InjectAssistedInjectAndInjectOnConstructorsNegativeCases.java'] 14
+['core/src/test/java/com/google/errorprone/bugpatterns/threadsafety/HeldLockAnalyzerTest.java'] 26
+['core/src/main/java/com/google/errorprone/bugpatterns/SuppressWarningsDeprecated.java'] 18
+"['core/src/main/java/com/google/errorprone/bugpatterns/SuppressWarningsDeprecated.java', 'core/src/main/java/com/google/errorprone/bugpatterns/FallThroughSuppression.java']" 13
+['core/src/main/java/com/google/errorprone/matchers/DescribingMatcher.java'] 20
+['jdk8/src/test/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTest.java'] 34
+"['jdk8/src/test/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTest.java', 'jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases2.java']" 18
+"['jdk8/src/test/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTest.java', 'jdk8/src/test/resources/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransferCases2.java', 'jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransfer.java']" 18
+"['jdk8/src/test/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTest.java', 'jdk8/src/main/java/com/google/errorprone/dataflow/nullnesspropagation/NullnessPropagationTransfer.java']" 26
+['core/src/main/java/com/google/errorprone/scanner/BuiltInCheckerSuppliers.java'] 54
+['core/src/main/java/com/google/errorprone/bugpatterns/GuiceInjectOnFinalField.java'] 15
+['core/src/main/java/com/google/errorprone/matchers/Suppressible.java'] 13
+['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquality.java'] 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/SelfEquality.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ModifyingCollectionWithItself.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/BadShiftAmountTest.java'] 22
+"['core/src/test/java/com/google/errorprone/bugpatterns/BadShiftAmountTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 14
+['core/src/test/java/com/google/errorprone/CommandLineFlagDisableTest.java'] 13
+['core/src/test/resources/com/google/errorprone/bugpatterns/SelfAssignmentPositiveCases2.java'] 18
+"['core/src/test/resources/com/google/errorprone/bugpatterns/SelfAssignmentPositiveCases2.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java']" 14
+"['core/src/test/resources/com/google/errorprone/bugpatterns/SelfAssignmentPositiveCases2.java', 'core/src/main/java/com/google/errorprone/bugpatterns/SelfAssignment.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 13
+"['core/src/test/resources/com/google/errorprone/bugpatterns/SelfAssignmentPositiveCases2.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 13
+['jdk8/src/main/java/com/google/errorprone/JDK8Shim.java'] 14
+"['jdk8/src/main/java/com/google/errorprone/JDK8Shim.java', 'core/src/main/java/com/google/errorprone/JDKCompatible.java']" 14
+['core/src/main/java/com/google/errorprone/matchers/JUnitMatchers.java'] 24
+['docgen/pom.xml'] 133
+"['docgen/pom.xml', 'pom.xml']" 127
+"['docgen/pom.xml', 'pom.xml', 'core/pom.xml']" 125
+"['docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 19
+"['docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml']" 19
+"['docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'pom.xml', 'core/pom.xml']" 19
+"['docgen/pom.xml', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/pom.xml']" 19
+"['docgen/pom.xml', 'core/pom.xml']" 129
+['core/src/main/java/com/google/errorprone/bugpatterns/MalformedFormatString.java'] 20
+"['core/src/main/java/com/google/errorprone/bugpatterns/MalformedFormatString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/MalformedFormatString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/StaticAccessedFromInstance.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/MalformedFormatString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/MisusedFormattingLogger.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/MalformedFormatString.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 13
+['core/src/main/java/com/google/errorprone/SearchingJavaCompiler.java'] 30
+"['core/src/main/java/com/google/errorprone/SearchingJavaCompiler.java', 'core/src/main/java/com/google/errorprone/ErrorProneCompiler.java']" 16
+"['core/src/main/java/com/google/errorprone/SearchingJavaCompiler.java', 'core/src/main/java/com/google/errorprone/ErrorReportingJavaCompiler.java']" 27
+"['core/src/main/java/com/google/errorprone/SearchingJavaCompiler.java', 'core/src/main/java/com/google/errorprone/ErrorReportingJavaCompiler.java', 'core/src/main/java/com/google/errorprone/ErrorProneCompiler.java']" 16
+['core/src/main/java/com/google/errorprone/fixes/SuggestedFix.java'] 46
+"['core/src/main/java/com/google/errorprone/fixes/SuggestedFix.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/fixes/SuggestedFix.java', 'core/pom.xml']" 13
+['.travis.yml'] 13
+['core/src/main/java/com/google/errorprone/bugpatterns/InjectJavaxInjectOnFinalField.java'] 15
+['core/src/test/java/com/google/errorprone/bugpatterns/InjectMoreThanOneScopeAnnotationOnClassTest.java'] 13
+['core/src/main/java/com/google/errorprone/bugpatterns/PreconditionsTooManyArgs.java'] 16
+['core/src/main/java/com/google/errorprone/bugpatterns/StaticAccessedFromInstance.java'] 21
+"['core/src/main/java/com/google/errorprone/bugpatterns/StaticAccessedFromInstance.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 14
+"['core/src/main/java/com/google/errorprone/bugpatterns/StaticAccessedFromInstance.java', 'core/src/main/java/com/google/errorprone/bugpatterns/MisusedFormattingLogger.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/StaticAccessedFromInstance.java', 'core/src/main/java/com/google/errorprone/bugpatterns/MisusedFormattingLogger.java', 'core/src/main/java/com/google/errorprone/bugpatterns/InvalidPatternSyntax.java']" 13
+"['core/src/main/java/com/google/errorprone/bugpatterns/StaticAccessedFromInstance.java', 'core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java']" 14
+['core/src/test/java/com/google/errorprone/matchers/ConstructorOfClassTest.java'] 17
+"['core/src/test/java/com/google/errorprone/matchers/ConstructorOfClassTest.java', 'core/src/test/java/com/google/errorprone/matchers/AnnotationTest.java']" 17
+['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitiveTest.java'] 23
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitiveTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/JUnit4TestNotRunTest.java']" 14
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitiveTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/JUnit4TestNotRunTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 13
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitiveTest.java', 'core/src/test/java/com/google/errorprone/CompilationTestHelper.java']" 18
+"['core/src/test/java/com/google/errorprone/bugpatterns/PreconditionsCheckNotNullPrimitiveTest.java', 'core/src/test/java/com/google/errorprone/bugpatterns/CheckReturnValueTest.java']" 13
+['core/src/test/java/com/google/errorprone/bugpatterns/ArrayHashCodeTest.java'] 14
+['core/src/main/java/com/google/errorprone/VisitorState.java'] 65
+"['core/src/main/java/com/google/errorprone/VisitorState.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 23
+"['core/src/main/java/com/google/errorprone/VisitorState.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 22
+"['core/src/main/java/com/google/errorprone/VisitorState.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 13
+"['core/src/main/java/com/google/errorprone/VisitorState.java', 'core/pom.xml']" 14
+['src/main/java/com/google/errorprone/ErrorFindingCompiler.java'] 19
+['core/src/main/java/com/google/errorprone/JavacErrorDescriptionListener.java'] 29
+"['core/src/main/java/com/google/errorprone/JavacErrorDescriptionListener.java', 'core/src/main/java/com/google/errorprone/ErrorProneAnalyzer.java']" 14
+['core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java'] 37
+"['core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java', 'core/src/main/java/com/google/errorprone/bugpatterns/BugChecker.java']" 16
+"['core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java', 'core/src/main/java/com/google/errorprone/matchers/Matchers.java']" 15
+"['core/src/main/java/com/google/errorprone/bugpatterns/ComparisonOutOfRange.java', 'core/src/main/java/com/google/errorprone/ErrorProneScanner.java']" 15
